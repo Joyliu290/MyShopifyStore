@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyli\ShopifyDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\Joyli\ShopifyDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_4ea89b19dd9e6bd113d1060fd59bd94940cbb76f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyli\ShopifyDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3db634df83442a87151a114944bc168a1a24a656">
+        <dex dex="C:\Users\Joyli\ShopifyDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_804e630ce7c35e9ef2e79d443c991fe0f423f09b\classes.dex" />
+    </item>
+
+</items>

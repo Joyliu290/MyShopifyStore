@@ -1,0 +1,7 @@
+#Fri Aug 25 14:59:18 EDT 2017
+base.0=C\:\\Users\\Joyli\\ShopifyDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_804e630ce7c35e9ef2e79d443c991fe0f423f09b
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Joyli\\ShopifyDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_4ea89b19dd9e6bd113d1060fd59bd94940cbb76f\\classes.dex
+base.1=C\:\\Users\\Joyli\\ShopifyDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_4ea89b19dd9e6bd113d1060fd59bd94940cbb76f
+file.0=C\:\\Users\\Joyli\\ShopifyDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_804e630ce7c35e9ef2e79d443c991fe0f423f09b\\classes.dex
