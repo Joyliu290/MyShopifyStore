@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:id="@+id/banner"
+                android:layout_marginTop="10dp"/>
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="2dp"
+                android:layout_marginTop="10dp"
+                android:layout_below="@+id/banner"
+                android:id="@+id/horizontalLine1"
+                android:background="#fbb0c3"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Newest Albums"
+                android:layout_below="@id/horizontalLine1"
+                android:id="@+id/shopFor"
+                android:textSize="18sp"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="30dp"
+                android:textColor="#f75385"/>
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="2dp"
+                android:layout_marginTop="10dp"
+                android:layout_below="@+id/shopFor"
+                android:id="@+id/horizontalLine2"
+                android:background="#fbb0c3"/>
+
+            <ImageView
+                android:layout_width="250dp"
+                android:layout_height="250dp"
+                android:layout_below="@+id/horizontalLine2"
+                android:id="@+id/newestAlbum1"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="70dp"/>
+
+            <TextView
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/newestAlbum1"
+                android:text=""
+                android:textSize="15sp"
+                android:id="@+id/newestAlbumTitle1"
+                android:textColor="#e47893"
+                android:layout_marginLeft="135dp"
+                android:layout_marginTop="10dp"/>
+
+            <ImageView
+                android:layout_width="190sp"
+                android:layout_height="210sp"
+                android:id="@+id/newestAlbum2"
+                android:layout_marginLeft="150dp"
+                android:layout_toRightOf="@+id/newestAlbum1"
+                android:layout_below="@id/horizontalLine2"
+                android:layout_marginTop="10dp"/>
+
+            <TextView
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/newestAlbum2"
+                android:text=""
+                android:id="@+id/newestAlbumTitle2"
+                android:layout_marginTop="30dp"
+                android:textColor="#e47893"
+                android:textSize="15sp"
+                android:layout_marginLeft="505dp"/>
+
+            <ImageView
+                android:layout_width="250dp"
+                android:layout_height="250dp"
+                android:id="@+id/newestAlbum3"
+                android:layout_below="@id/newestAlbumTitle1"
+                android:layout_marginTop="20dp"
+                android:layout_marginLeft="50dp"/>
+
+            <TextView
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:text=""
+                android:layout_marginLeft="100dp"
+                android:id="@+id/newestAlbumTitle3"
+                android:layout_below="@+id/newestAlbum3"
+                android:layout_marginTop="20dp"/>
+
+            <ImageView
+                android:layout_width="250dp"
+                android:layout_height="250dp"
+                android:layout_toRightOf="@+id/newestAlbum3"
+                android:layout_below="@id/newestAlbum2"
+                android:id="@+id/newestAlbum4"
+                android:layout_marginLeft="50dp"
+                android:layout_marginTop="50dp"/>
+
+            <TextView
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/newestAlbumTitle4"
+                android:text=""
+                android:layout_marginLeft="150dp"
+                android:layout_below="@+id/newestAlbum4"
+                android:layout_marginTop="20dp"
+                android:layout_toRightOf="@+id/newestAlbum3"/>
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="2dp"
+                android:layout_marginTop="30dp"
+                android:layout_below="@+id/newestAlbumTitle3"
+                android:id="@+id/horizontalLine3"
+                android:background="#fbb0c3"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Albums"
+                android:id="@+id/albumCollection"
+                android:layout_below="@+id/horizontalLine3"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="30dp"
+                android:textSize="18sp"
+                android:textColor="#f75385"/>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="2dp"
+                android:layout_marginTop="10dp"
+                android:layout_below="@+id/albumCollection"
+                android:id="@+id/horizontalLine4"
+                android:background="#fbb0c3"/>
+
+        </RelativeLayout>
+    </ScrollView>
+
+
+</RelativeLayout>
