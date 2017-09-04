@@ -20,13 +20,13 @@ MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Joyli\.android\bu
 MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Joyli\.android\build-cache\b094a7f558e6e49a24e472575ae362c76ab9a361\output\AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Joyli\.android\build-cache\19babd996c7423d55639bf901c3969e7a9278aae\output\AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:transition:25.3.1] C:\Users\Joyli\.android\build-cache\0f4c50e15c772c669ec37c34e9cde2eea68664f5\output\AndroidManifest.xml:26:5-20
+MERGED from [com.jakewharton.timber:timber:4.5.1] C:\Users\Joyli\.android\build-cache\2ab15a59d7f438584f045d627a6f4acc0de73698\output\AndroidManifest.xml:8:5-20
 MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Joyli\.android\build-cache\44e44cb3a0c14a5e909bca2e8a39876c092807af\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Joyli\.android\build-cache\16f55e7bb4efbeed33f74f9e7ac8b0889a759fcc\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Joyli\.android\build-cache\52614dc3f2311e72e6da529f016aa58059d5d0b1\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Joyli\.android\build-cache\8e041b5a63a93b2956b5dbac77097494ce6d9a87\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Joyli\.android\build-cache\fcbaa4520f559ee1bf03413a5077ee99ae76a139\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Joyli\.android\build-cache\df751c26cb6c6ad7127e8f6ad70af135697174ff\output\AndroidManifest.xml:29:5-20
-MERGED from [com.jakewharton.timber:timber:4.5.1] C:\Users\Joyli\.android\build-cache\2ab15a59d7f438584f045d627a6f4acc0de73698\output\AndroidManifest.xml:8:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Joyli\.android\build-cache\7ba6736fa94fdc14ecef23c4981bf78a2da4b090\output\AndroidManifest.xml:9:5-20
 	android:label
 		ADDED from C:\Users\Joyli\ShopifyDemo\app\src\main\AndroidManifest.xml:8:9-41
@@ -62,15 +62,15 @@ MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Joyli
 MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Joyli\.android\build-cache\19babd996c7423d55639bf901c3969e7a9278aae\output\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Joyli\.android\build-cache\af58c2d6d67e20e377b7e0ca4b1fa0f3e9b84bfd\output\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:transition:25.3.1] C:\Users\Joyli\.android\build-cache\0f4c50e15c772c669ec37c34e9cde2eea68664f5\output\AndroidManifest.xml:20:5-44
+MERGED from [com.shopify.mobilebuysdk:buy3:3.0.6] C:\Users\Joyli\.android\build-cache\9198475f4420d3893c7fc5c638a20560fe968b7a\output\AndroidManifest.xml:6:5-8:41
+MERGED from [net.danlew:android.joda:2.9.9] C:\Users\Joyli\.android\build-cache\e4d35448ccfb357a2ecd9f007482bc852d27724e\output\AndroidManifest.xml:6:5-43
+MERGED from [com.jakewharton.timber:timber:4.5.1] C:\Users\Joyli\.android\build-cache\2ab15a59d7f438584f045d627a6f4acc0de73698\output\AndroidManifest.xml:6:5-43
 MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Joyli\.android\build-cache\44e44cb3a0c14a5e909bca2e8a39876c092807af\output\AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Joyli\.android\build-cache\16f55e7bb4efbeed33f74f9e7ac8b0889a759fcc\output\AndroidManifest.xml:21:5-23:60
 MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Joyli\.android\build-cache\52614dc3f2311e72e6da529f016aa58059d5d0b1\output\AndroidManifest.xml:21:5-23:63
 MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Joyli\.android\build-cache\8e041b5a63a93b2956b5dbac77097494ce6d9a87\output\AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Joyli\.android\build-cache\fcbaa4520f559ee1bf03413a5077ee99ae76a139\output\AndroidManifest.xml:21:5-23:61
 MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Joyli\.android\build-cache\df751c26cb6c6ad7127e8f6ad70af135697174ff\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.shopify.mobilebuysdk:buy3:3.0.6] C:\Users\Joyli\.android\build-cache\9198475f4420d3893c7fc5c638a20560fe968b7a\output\AndroidManifest.xml:6:5-8:41
-MERGED from [net.danlew:android.joda:2.9.9] C:\Users\Joyli\.android\build-cache\e4d35448ccfb357a2ecd9f007482bc852d27724e\output\AndroidManifest.xml:6:5-43
-MERGED from [com.jakewharton.timber:timber:4.5.1] C:\Users\Joyli\.android\build-cache\2ab15a59d7f438584f045d627a6f4acc0de73698\output\AndroidManifest.xml:6:5-43
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Joyli\.android\build-cache\7ba6736fa94fdc14ecef23c4981bf78a2da4b090\output\AndroidManifest.xml:5:5-7:41
 	tools:overrideLibrary
 		ADDED from [com.android.support:design:25.3.1] C:\Users\Joyli\.android\build-cache\7186d664db76c7ad7f35760a8373b0e810ee77fe\output\AndroidManifest.xml:23:9-59

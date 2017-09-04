@@ -28,6 +28,10 @@
         "source": "C:\\Users\\Joyli\\.android\\build-cache\\594c73ff7c715606fa112f6830b9caab931ddc61\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
     },
     {
+        "merged": "C:\\Users\\Joyli\\ShopifyDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\filter_dialogue.xml",
+        "source": "C:\\Users\\Joyli\\ShopifyDemo\\app\\src\\main\\res\\layout\\filter_dialogue.xml"
+    },
+    {
         "merged": "C:\\Users\\Joyli\\ShopifyDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
         "source": "C:\\Users\\Joyli\\.android\\build-cache\\594c73ff7c715606fa112f6830b9caab931ddc61\\output\\res\\layout\\abc_select_dialog_material.xml"
     },
@@ -80,6 +84,10 @@
         "source": "C:\\Users\\Joyli\\.android\\build-cache\\594c73ff7c715606fa112f6830b9caab931ddc61\\output\\res\\layout\\abc_list_menu_item_layout.xml"
     },
     {
+        "merged": "C:\\Users\\Joyli\\ShopifyDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sort_dialogue.xml",
+        "source": "C:\\Users\\Joyli\\ShopifyDemo\\app\\src\\main\\res\\layout\\sort_dialogue.xml"
+    },
+    {
         "merged": "C:\\Users\\Joyli\\ShopifyDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cart_fragment.xml",
         "source": "C:\\Users\\Joyli\\ShopifyDemo\\app\\src\\main\\res\\layout\\cart_fragment.xml"
     },
@@ -118,6 +126,10 @@
     {
         "merged": "C:\\Users\\Joyli\\ShopifyDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
         "source": "C:\\Users\\Joyli\\.android\\build-cache\\594c73ff7c715606fa112f6830b9caab931ddc61\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joyli\\ShopifyDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\product.xml",
+        "source": "C:\\Users\\Joyli\\ShopifyDemo\\app\\src\\main\\res\\layout\\product.xml"
     },
     {
         "merged": "C:\\Users\\Joyli\\ShopifyDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
@@ -222,6 +234,10 @@
     {
         "merged": "C:\\Users\\Joyli\\ShopifyDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_page.xml",
         "source": "C:\\Users\\Joyli\\ShopifyDemo\\app\\src\\main\\res\\layout\\home_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joyli\\ShopifyDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\artist_name.xml",
+        "source": "C:\\Users\\Joyli\\ShopifyDemo\\app\\src\\main\\res\\layout\\artist_name.xml"
     },
     {
         "merged": "C:\\Users\\Joyli\\ShopifyDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",

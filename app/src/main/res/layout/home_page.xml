@@ -40,94 +40,28 @@
                 android:id="@+id/horizontalLine2"
                 android:background="#fbb0c3"/>
 
-            <ImageView
-                android:layout_width="250dp"
-                android:layout_height="250dp"
+            <GridLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
                 android:layout_below="@+id/horizontalLine2"
-                android:id="@+id/newestAlbum1"
-                android:layout_marginTop="10dp"
-                android:layout_marginLeft="70dp"/>
+                android:id="@+id/gridLayout"
+                android:rowCount="2"
+                android:columnCount="2">
 
-            <TextView
-                android:layout_width="150dp"
-                android:layout_height="wrap_content"
-                android:layout_below="@id/newestAlbum1"
-                android:text=""
-                android:textSize="15sp"
-                android:id="@+id/newestAlbumTitle1"
-                android:textColor="#e47893"
-                android:layout_marginLeft="135dp"
-                android:layout_marginTop="10dp"/>
-
-            <ImageView
-                android:layout_width="190sp"
-                android:layout_height="210sp"
-                android:id="@+id/newestAlbum2"
-                android:layout_marginLeft="150dp"
-                android:layout_toRightOf="@+id/newestAlbum1"
-                android:layout_below="@id/horizontalLine2"
-                android:layout_marginTop="10dp"/>
-
-            <TextView
-                android:layout_width="150dp"
-                android:layout_height="wrap_content"
-                android:layout_below="@+id/newestAlbum2"
-                android:text=""
-                android:id="@+id/newestAlbumTitle2"
-                android:layout_marginTop="30dp"
-                android:textColor="#e47893"
-                android:textSize="15sp"
-                android:layout_marginLeft="505dp"/>
-
-            <ImageView
-                android:layout_width="250dp"
-                android:layout_height="250dp"
-                android:id="@+id/newestAlbum3"
-                android:layout_below="@id/newestAlbumTitle1"
-                android:layout_marginTop="20dp"
-                android:layout_marginLeft="50dp"/>
-
-            <TextView
-                android:layout_width="150dp"
-                android:layout_height="wrap_content"
-                android:text=""
-                android:layout_marginLeft="100dp"
-                android:id="@+id/newestAlbumTitle3"
-                android:layout_below="@+id/newestAlbum3"
-                android:layout_marginTop="20dp"/>
-
-            <ImageView
-                android:layout_width="250dp"
-                android:layout_height="250dp"
-                android:layout_toRightOf="@+id/newestAlbum3"
-                android:layout_below="@id/newestAlbum2"
-                android:id="@+id/newestAlbum4"
-                android:layout_marginLeft="50dp"
-                android:layout_marginTop="50dp"/>
-
-            <TextView
-                android:layout_width="150dp"
-                android:layout_height="wrap_content"
-                android:id="@+id/newestAlbumTitle4"
-                android:text=""
-                android:layout_marginLeft="150dp"
-                android:layout_below="@+id/newestAlbum4"
-                android:layout_marginTop="20dp"
-                android:layout_toRightOf="@+id/newestAlbum3"/>
-
+            </GridLayout>
 
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="2dp"
                 android:layout_marginTop="30dp"
-                android:layout_below="@+id/newestAlbumTitle3"
+                android:layout_below="@+id/gridLayout"
                 android:id="@+id/horizontalLine3"
                 android:background="#fbb0c3"/>
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Albums"
+                android:text="Newest Posters"
                 android:id="@+id/albumCollection"
                 android:layout_below="@+id/horizontalLine3"
                 android:layout_marginTop="10dp"
@@ -142,6 +76,17 @@
                 android:layout_below="@+id/albumCollection"
                 android:id="@+id/horizontalLine4"
                 android:background="#fbb0c3"/>
+
+            <GridLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/horizontalLine4"
+                android:id="@+id/gridLayout2"
+                android:layout_marginBottom="20dp"
+                android:rowCount="2"
+                android:columnCount="2">
+
+            </GridLayout>
 
         </RelativeLayout>
     </ScrollView>

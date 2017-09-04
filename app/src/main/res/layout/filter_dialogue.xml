@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:layout_marginLeft="20dp"
+    android:layout_marginRight="200dp"
+    android:layout_marginTop="50dp"
+    android:layout_marginBottom="70dp"
+    >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/filterDialogueTitle"
+        android:layout_marginLeft="0dp"
+        android:textColor="#000000"
+        android:text="Filter Catalogue By: "
+        android:layout_centerHorizontal="true"/>
+    <RadioGroup
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <RadioButton
+            android:id="@+id/filterAlbumRadio"
+            android:layout_marginTop="60dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Album" />
+
+        <RadioButton
+            android:id="@+id/filterPosterRadio"
+            android:layout_width="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/filterAlbumRadio"
+            android:text="Poster" />
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_below="@+id/filterPosterRadio"
+            android:id="@+id/filterByArtistName"
+            android:text="Artist Name" />
+
+    </RadioGroup>
+
+</RelativeLayout>
