@@ -24,15 +24,16 @@
         android:layout_marginLeft="20dp"/>
 
     <Button
-        android:layout_width="70dp"
+        android:layout_width="100dp"
         android:layout_height="50dp"
         android:text="Enter"
+        android:textColor="#ffffff"
+        android:background="#fbb0c3"
 
         android:id="@+id/nameButton"
         android:visibility="visible"
         android:layout_alignBottom="@+id/enterName"
         android:layout_toEndOf="@+id/enterName" />
-        <!--android:textColor="#ffffff"-->
-    <!--android:background="#fbb0c3"-->
+
 
 </RelativeLayout>

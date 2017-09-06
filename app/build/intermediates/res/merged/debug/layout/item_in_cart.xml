@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="200dp"
+        android:layout_height="250dp"
+        android:id="@+id/individualCartItemImage"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="30dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/individualCartItemName"
+        android:layout_toRightOf="@+id/individualCartItemImage"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="40dp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/individualCartItemName"
+        android:id="@+id/individualCartItemPrice"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="20dp"
+        android:layout_toRightOf="@+id/individualCartItemImage"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/individualCartItemPrice"
+        android:layout_marginTop="30dp"
+        android:layout_toRightOf="@+id/individualCartItemImage"
+        android:id="@+id/individualCartStock"
+        android:textColor="@color/colorPrimary"
+        android:layout_marginLeft="20dp"/>
+
+    <Spinner
+        android:layout_width="100dp"
+        android:layout_height="40dp"
+        android:id="@+id/individualCartItemSpinner"
+        android:layout_below="@+id/individualCartStock"
+        android:layout_toRightOf="@+id/individualCartItemImage"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="20dp"></Spinner>
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="40dp"
+        android:id="@+id/individualCartButton"
+        android:layout_below="@+id/individualCartStock"
+        android:layout_toRightOf="@+id/individualCartItemSpinner"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="20dp"
+        android:text="Delete"
+        android:background="#fbb0c3"
+        android:textColor="#FFFFFF"/>
+
+</RelativeLayout>
