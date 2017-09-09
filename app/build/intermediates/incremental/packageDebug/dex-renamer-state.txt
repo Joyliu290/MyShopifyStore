@@ -1,4 +1,4 @@
-#Tue Sep 05 20:17:20 EDT 2017
+#Sat Sep 09 01:34:30 EDT 2017
 base.0=C\:\\Users\\Joyli\\ShopifyDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_804e630ce7c35e9ef2e79d443c991fe0f423f09b
 renamed.1=classes2.dex
 renamed.0=classes.dex
