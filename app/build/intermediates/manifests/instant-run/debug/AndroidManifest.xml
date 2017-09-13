@@ -29,6 +29,15 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="joyli.example.com.shopifydemo.startShoppingCart"
+            android:label="" >
+            <intent-filter>
+                <action android:name="joyli.example.com.shopifydemo.startShoppingCart" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
 
         <provider
             android:name="com.android.tools.fd.runtime.InstantRunContentProvider"

@@ -116,6 +116,10 @@
         "source": "C:\\Users\\Joyli\\.android\\build-cache\\594c73ff7c715606fa112f6830b9caab931ddc61\\output\\res\\drawable\\abc_vector_test.xml"
     },
     {
+        "merged": "C:\\Users\\Joyli\\ShopifyDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shopping_cart.png",
+        "source": "C:\\Users\\Joyli\\ShopifyDemo\\app\\src\\main\\res\\drawable\\shopping_cart.png"
+    },
+    {
         "merged": "C:\\Users\\Joyli\\ShopifyDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
         "source": "C:\\Users\\Joyli\\.android\\build-cache\\594c73ff7c715606fa112f6830b9caab931ddc61\\output\\res\\drawable\\abc_btn_check_material.xml"
     },

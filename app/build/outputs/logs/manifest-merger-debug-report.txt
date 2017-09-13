@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Joyli\ShopifyDemo\app\src\main\AndroidManifest.xml:2:1-21:12
+ADDED from C:\Users\Joyli\ShopifyDemo\app\src\main\AndroidManifest.xml:2:1-30:12
 	package
 		ADDED from C:\Users\Joyli\ShopifyDemo\app\src\main\AndroidManifest.xml:3:5-44
 		INJECTED from C:\Users\Joyli\ShopifyDemo\app\src\main\AndroidManifest.xml
@@ -14,7 +14,7 @@ ADDED from C:\Users\Joyli\ShopifyDemo\app\src\main\AndroidManifest.xml:2:1-21:12
 		INJECTED from C:\Users\Joyli\ShopifyDemo\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Joyli\ShopifyDemo\app\src\main\AndroidManifest.xml
 application
-ADDED from C:\Users\Joyli\ShopifyDemo\app\src\main\AndroidManifest.xml:5:5-19:19
+ADDED from C:\Users\Joyli\ShopifyDemo\app\src\main\AndroidManifest.xml:5:5-28:19
 MERGED from [com.android.support:design:25.3.1] C:\Users\Joyli\.android\build-cache\7186d664db76c7ad7f35760a8373b0e810ee77fe\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Joyli\.android\build-cache\594c73ff7c715606fa112f6830b9caab931ddc61\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Joyli\.android\build-cache\b094a7f558e6e49a24e472575ae362c76ab9a361\output\AndroidManifest.xml:26:5-20
@@ -54,6 +54,22 @@ category#android.intent.category.LAUNCHER
 ADDED from C:\Users\Joyli\ShopifyDemo\app\src\main\AndroidManifest.xml:16:17-77
 	android:name
 		ADDED from C:\Users\Joyli\ShopifyDemo\app\src\main\AndroidManifest.xml:16:27-74
+activity#joyli.example.com.shopifydemo.startShoppingCart
+ADDED from C:\Users\Joyli\ShopifyDemo\app\src\main\AndroidManifest.xml:20:9-27:20
+	android:label
+		ADDED from C:\Users\Joyli\ShopifyDemo\app\src\main\AndroidManifest.xml:22:13-29
+	android:name
+		ADDED from C:\Users\Joyli\ShopifyDemo\app\src\main\AndroidManifest.xml:21:13-46
+intent-filter#android.intent.category.DEFAULT+joyli.example.com.shopifydemo.startShoppingCart
+ADDED from C:\Users\Joyli\ShopifyDemo\app\src\main\AndroidManifest.xml:23:13-26:29
+action#joyli.example.com.shopifydemo.startShoppingCart
+ADDED from C:\Users\Joyli\ShopifyDemo\app\src\main\AndroidManifest.xml:24:17-90
+	android:name
+		ADDED from C:\Users\Joyli\ShopifyDemo\app\src\main\AndroidManifest.xml:24:25-87
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\Joyli\ShopifyDemo\app\src\main\AndroidManifest.xml:25:17-76
+	android:name
+		ADDED from C:\Users\Joyli\ShopifyDemo\app\src\main\AndroidManifest.xml:25:27-73
 uses-sdk
 INJECTED from C:\Users\Joyli\ShopifyDemo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:design:25.3.1] C:\Users\Joyli\.android\build-cache\7186d664db76c7ad7f35760a8373b0e810ee77fe\output\AndroidManifest.xml:21:5-23:62

@@ -3079,13 +3079,13 @@ containing a value of this type.
         public static final int abc_vector_test=0x7f020052;
         public static final int apink_poster=0x7f020053;
         public static final int avd_hide_password=0x7f020054;
-        public static final int avd_hide_password_1=0x7f020070;
-        public static final int avd_hide_password_2=0x7f020071;
-        public static final int avd_hide_password_3=0x7f020072;
+        public static final int avd_hide_password_1=0x7f020071;
+        public static final int avd_hide_password_2=0x7f020072;
+        public static final int avd_hide_password_3=0x7f020073;
         public static final int avd_show_password=0x7f020055;
-        public static final int avd_show_password_1=0x7f020073;
-        public static final int avd_show_password_2=0x7f020074;
-        public static final int avd_show_password_3=0x7f020075;
+        public static final int avd_show_password_1=0x7f020074;
+        public static final int avd_show_password_2=0x7f020075;
+        public static final int avd_show_password_3=0x7f020076;
         public static final int banner_sample=0x7f020056;
         public static final int browse=0x7f020057;
         public static final int bts_ablum=0x7f020058;
@@ -3107,11 +3107,12 @@ containing a value of this type.
         public static final int notification_bg_normal=0x7f020068;
         public static final int notification_bg_normal_pressed=0x7f020069;
         public static final int notification_icon_background=0x7f02006a;
-        public static final int notification_template_icon_bg=0x7f02006e;
-        public static final int notification_template_icon_low_bg=0x7f02006f;
+        public static final int notification_template_icon_bg=0x7f02006f;
+        public static final int notification_template_icon_low_bg=0x7f020070;
         public static final int notification_tile_bg=0x7f02006b;
         public static final int notify_panel_notification_icon_bg=0x7f02006c;
-        public static final int sort=0x7f02006d;
+        public static final int shopping_cart=0x7f02006d;
+        public static final int sort=0x7f02006e;
     }
     public static final class id {
         public static final int action0=0x7f0f00a7;
@@ -3266,6 +3267,7 @@ containing a value of this type.
         public static final int search_voice_btn=0x7f0f0078;
         public static final int select_dialog_listview=0x7f0f0079;
         public static final int shopFor=0x7f0f0099;
+        public static final int shoppingCart=0x7f0f00c9;
         public static final int shortcut=0x7f0f0063;
         public static final int showCustom=0x7f0f001d;
         public static final int showHome=0x7f0f001e;
@@ -3400,6 +3402,7 @@ containing a value of this type.
     }
     public static final class menu {
         public static final int categori_menu=0x7f100000;
+        public static final int shopping_cart=0x7f100001;
     }
     public static final class mipmap {
         public static final int ic_launcher=0x7f030000;
