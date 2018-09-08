@@ -29,7 +29,7 @@ MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Joyli\.andr
 MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Joyli\.android\build-cache\df751c26cb6c6ad7127e8f6ad70af135697174ff\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Joyli\.android\build-cache\7ba6736fa94fdc14ecef23c4981bf78a2da4b090\output\AndroidManifest.xml:9:5-20
 	android:label
-		ADDED from C:\Users\Joyli\ShopifyDemo\app\src\main\AndroidManifest.xml:8:9-28
+		ADDED from C:\Users\Joyli\ShopifyDemo\app\src\main\AndroidManifest.xml:8:9-34
 	android:supportsRtl
 		ADDED from C:\Users\Joyli\ShopifyDemo\app\src\main\AndroidManifest.xml:10:9-35
 	android:roundIcon
