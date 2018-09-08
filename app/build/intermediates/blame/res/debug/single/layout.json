@@ -12,6 +12,10 @@
         "source": "C:\\Users\\Joyli\\.android\\build-cache\\7186d664db76c7ad7f35760a8373b0e810ee77fe\\output\\res\\layout\\design_layout_tab_icon.xml"
     },
     {
+        "merged": "C:\\Users\\Joyli\\ShopifyDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\artist_events.xml",
+        "source": "C:\\Users\\Joyli\\ShopifyDemo\\app\\src\\main\\res\\layout\\artist_events.xml"
+    },
+    {
         "merged": "C:\\Users\\Joyli\\ShopifyDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
         "source": "C:\\Users\\Joyli\\.android\\build-cache\\594c73ff7c715606fa112f6830b9caab931ddc61\\output\\res\\layout\\abc_expanded_menu_layout.xml"
     },
