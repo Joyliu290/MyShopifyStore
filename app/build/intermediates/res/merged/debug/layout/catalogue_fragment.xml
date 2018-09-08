@@ -5,24 +5,30 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:orientation="vertical">
 
+    <ProgressBar
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/layoutProgress"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="700dp"
+        android:layout_marginTop="700dp"
+        android:layout_centerVertical="true"
+        android:layout_centerInParent="true"
+        android:visibility="visible"/>
+
+    <HorizontalScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
     <ScrollView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content">
 
+
         <RelativeLayout
             android:layout_width="wrap_content"
             android:layout_height="wrap_content">
-
-            <ProgressBar
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:id="@+id/layoutProgress"
-                android:layout_centerHorizontal="true"
-                android:layout_marginLeft="700dp"
-                android:layout_marginTop="700dp"
-                android:layout_centerVertical="true"
-                android:layout_centerInParent="true"
-                android:visibility="visible"/>
+            
 
             <GridLayout
                 android:layout_width="wrap_content"
@@ -36,8 +42,11 @@
             </GridLayout>
 
 
+
+
         </RelativeLayout>
     </ScrollView>
+    </HorizontalScrollView>
 
     <FrameLayout
         android:id="@+id/frame_layout"
