@@ -24,11 +24,9 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content">
 
-
         <RelativeLayout
             android:layout_width="wrap_content"
             android:layout_height="wrap_content">
-            
 
             <GridLayout
                 android:layout_width="wrap_content"
@@ -40,9 +38,6 @@
                 >
 
             </GridLayout>
-
-
-
 
         </RelativeLayout>
     </ScrollView>
@@ -65,6 +60,5 @@
         android:background="#f2f2f2"
         app:itemTextColor="@color/colorAccent"
         app:menu="@menu/categori_menu"/>
-
 
 </RelativeLayout>
