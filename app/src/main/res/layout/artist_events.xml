@@ -2,9 +2,27 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent" android:layout_height="match_parent">
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="hello"/>
+    <EditText
+        android:layout_width="410dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="55dp"
+        android:layout_below="@+id/pager"
+        android:id="@+id/searchArtistName"
+        android:hint="Search for..."
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="10dp"
+        android:textColorHint="@color/colorPrimary"
+        />
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="100dp"
+        android:layout_toRightOf="@+id/searchArtistName"
+        android:text="Enter"
+        android:textColor="#ffffff"
+        android:layout_marginTop="55dp"
+        android:textSize="20dp"
+        android:background="#fbb0c3"/>
+
 
 </RelativeLayout>
