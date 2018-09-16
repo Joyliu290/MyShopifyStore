@@ -2,22 +2,18 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent" android:layout_height="match_parent">
 
-    <HorizontalScrollView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content">
-
     <ScrollView
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
 
         <RelativeLayout
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content">
 
             <View
-                android:layout_width="fill_parent"
-                android:layout_height="4dp"
-                android:layout_marginTop="75dp"
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:layout_marginTop="85dp"
                 android:id="@+id/horizontalLine1"
                 android:background="#fbb0c3"/>
 
@@ -32,15 +28,16 @@
                 android:layout_marginLeft="30dp"
                 android:textColor="#f75385"/>
             <View
-                android:layout_width="fill_parent"
+                android:layout_width="match_parent"
                 android:layout_height="2dp"
                 android:layout_marginTop="10dp"
                 android:layout_below="@+id/shopFor"
                 android:id="@+id/horizontalLine2"
-                android:background="#fbb0c3"/>
+                android:background="#fbb0c3"
+                android:minHeight="1dp"/>
 
             <GridLayout
-                android:layout_width="wrap_content"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_below="@+id/horizontalLine2"
                 android:id="@+id/gridLayout"
@@ -77,7 +74,7 @@
                 android:background="#fbb0c3"/>
 
             <GridLayout
-                android:layout_width="wrap_content"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_below="@+id/horizontalLine4"
                 android:id="@+id/gridLayout2"
@@ -91,5 +88,4 @@
 
     </ScrollView>
 
-    </HorizontalScrollView>
 </RelativeLayout>

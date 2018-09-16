@@ -16,10 +16,6 @@
         android:layout_centerInParent="true"
         android:visibility="visible"/>
 
-    <HorizontalScrollView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content">
-
     <ScrollView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content">
@@ -41,7 +37,7 @@
 
         </RelativeLayout>
     </ScrollView>
-    </HorizontalScrollView>
+
 
     <FrameLayout
         android:id="@+id/frame_layout"
