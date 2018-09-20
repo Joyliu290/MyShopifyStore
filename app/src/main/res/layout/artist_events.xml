@@ -20,10 +20,18 @@
         android:layout_toRightOf="@+id/searchArtistName"
         android:text="Enter"
         android:textColor="#ffffff"
+        android:id="@+id/searchButton"
         android:layout_marginLeft="30dp"
         android:layout_marginTop="55dp"
         android:textSize="30dp"
         android:background="#fbb0c3"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/jsonResponse"
+        android:layout_below="@+id/searchArtistName"
+        android:layout_marginTop="50dp"/>
 
 
 </RelativeLayout>

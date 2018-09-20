@@ -3,6 +3,15 @@
 
     <item
         is-multidex="true"
+        jar="C:\Users\Joyli\ShopifyDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f117be0b212688a1bc8404b96376d1131e63ebfe">
+        <dex dex="C:\Users\Joyli\ShopifyDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_804e630ce7c35e9ef2e79d443c991fe0f423f09b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\Joyli\ShopifyDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
@@ -12,12 +21,21 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Joyli\ShopifyDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jar="C:\Users\Joyli\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.11.0\75966e05a49046ca2ae734e5626f28837a8d1e82\okhttp-3.11.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="f117be0b212688a1bc8404b96376d1131e63ebfe">
-        <dex dex="C:\Users\Joyli\ShopifyDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_804e630ce7c35e9ef2e79d443c991fe0f423f09b\classes.dex" />
+        sha1="75966e05a49046ca2ae734e5626f28837a8d1e82">
+        <dex dex="C:\Users\Joyli\ShopifyDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.11.0_2fed12bc823f941ec0dab10034cddfdff689f5f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joyli\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.14.0\102d7be47241d781ef95f1581d414b0943053130\okio-1.14.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="102d7be47241d781ef95f1581d414b0943053130">
+        <dex dex="C:\Users\Joyli\ShopifyDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.14.0_863f46e6052bc4e702ee5afff3bfd4de2ec36dab\classes.dex" />
     </item>
 
 </items>
