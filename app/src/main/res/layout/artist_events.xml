@@ -39,11 +39,10 @@
                 android:layout_height="wrap_content"
                 android:id="@+id/gridLayoutConcert"
                 android:layout_marginLeft="20dp"
-
                 android:columnCount="1"
                 android:layout_below="@+id/searchArtistName"
                 android:layout_marginTop="20dp"
-                android:layout_marginBottom="80dp"></GridLayout>
+                android:layout_marginBottom="80dp" />
 
         </RelativeLayout>
     </ScrollView>
