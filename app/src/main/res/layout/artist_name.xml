@@ -29,7 +29,6 @@
         android:text="Enter"
         android:textColor="#ffffff"
         android:background="#fbb0c3"
-
         android:id="@+id/nameButton"
         android:visibility="visible"
         android:layout_alignBottom="@+id/enterName"
