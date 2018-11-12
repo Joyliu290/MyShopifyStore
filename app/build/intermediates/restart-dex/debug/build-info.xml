@@ -6,19 +6,19 @@
     density="mdpi"
     format="10"
     plugin-version="2.3.2"
-    timestamp="1541986759990"
+    timestamp="1541987182914"
     token="3801867993551465266"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="2096" />
+        duration="1888" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="33" />
+        duration="40" />
     <task
         name="verifier"
         duration="10" />
@@ -70,7 +70,7 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1541986759990"
+        timestamp="1541987182914"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="C:\Users\Joyli\ShopifyDemo\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
