@@ -3,43 +3,39 @@
     android:layout_width="match_parent" android:layout_height="match_parent">
 
     <ImageView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="250dp"
+        android:layout_height="200dp"
         android:id="@+id/concertImage"
         android:layout_marginTop="100dp"
         android:layout_marginLeft="30dp"/>
     
     <TextView
         android:layout_width="wrap_content"
-        android:layout_height="50dp"
-        android:textSize="20sp"
+        android:layout_height="wrap_content"
         android:id="@+id/concertName"
         android:layout_toRightOf="@id/concertImage"
-        android:layout_marginLeft="50dp"
-        android:layout_marginTop="150dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="160dp"
         />
 
     <TextView
         android:layout_width="wrap_content"
-        android:layout_height="50dp"
-        android:textSize="20sp"
-        android:text="HI"
+        android:layout_height="wrap_content"
         android:id="@+id/concertTime"
         android:layout_toRightOf="@id/concertImage"
         android:layout_below="@+id/concertName"
-        android:layout_marginLeft="50dp"
-        android:layout_marginTop="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="10dp"
         />
 
     <TextView
         android:layout_width="wrap_content"
-        android:layout_height="50dp"
-        android:textSize="20sp"
+        android:layout_height="wrap_content"
         android:id="@+id/concertLocation"
         android:layout_toRightOf="@id/concertImage"
         android:layout_below="@+id/concertTime"
-        android:layout_marginLeft="50dp"
-        android:layout_marginTop="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="10dp"
         />
 
 </RelativeLayout>
