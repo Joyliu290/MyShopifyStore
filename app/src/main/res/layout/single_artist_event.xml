@@ -4,7 +4,7 @@
 
     <ImageView
         android:layout_width="250dp"
-        android:layout_height="200dp"
+        android:layout_height="150dp"
         android:id="@+id/concertImage"
         android:layout_marginTop="100dp"
         android:layout_marginLeft="30dp"/>
@@ -15,7 +15,7 @@
         android:id="@+id/concertName"
         android:layout_toRightOf="@id/concertImage"
         android:layout_marginLeft="20dp"
-        android:layout_marginTop="160dp"
+        android:layout_marginTop="100dp"
         />
 
     <TextView
