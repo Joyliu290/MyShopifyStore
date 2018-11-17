@@ -6,7 +6,7 @@
         android:layout_width="250dp"
         android:layout_height="150dp"
         android:id="@+id/concertImage"
-        android:layout_marginTop="100dp"
+        android:layout_marginTop="50dp"
         android:layout_marginLeft="30dp"/>
     
     <TextView
@@ -15,7 +15,7 @@
         android:id="@+id/concertName"
         android:layout_toRightOf="@id/concertImage"
         android:layout_marginLeft="20dp"
-        android:layout_marginTop="100dp"
+        android:layout_marginTop="70dp"
         />
 
     <TextView
@@ -37,5 +37,13 @@
         android:layout_marginLeft="20dp"
         android:layout_marginTop="10dp"
         />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_below="@+id/concertImage"
+        android:layout_height="2dp"
+        android:layout_marginTop="30dp"
+        android:id="@+id/horizontalLine1"
+        android:background="#fbb0c3"/>
 
 </RelativeLayout>
