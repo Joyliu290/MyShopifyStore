@@ -6,7 +6,7 @@
     density="mdpi"
     format="10"
     plugin-version="2.3.2"
-    timestamp="1542432716817"
+    timestamp="1542432815413"
     token="3801867993551465266"
     verifier="COLD_SWAP_REQUESTED" >
 
@@ -70,7 +70,7 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1542432716817"
+        timestamp="1542432815413"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="C:\Users\Joyli\ShopifyDemo\app\build\outputs\apk\app-debug.apk"
