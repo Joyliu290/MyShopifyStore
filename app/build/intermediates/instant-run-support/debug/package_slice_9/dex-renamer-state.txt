@@ -1,4 +1,4 @@
-#Wed Dec 26 00:42:05 EST 2018
+#Wed Dec 26 01:05:40 EST 2018
 base.0=C\:\\Users\\Joyli\\ShopifyDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_9
 renamed.0=classes.dex
 file.0=C\:\\Users\\Joyli\\ShopifyDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_9\\classes.dex

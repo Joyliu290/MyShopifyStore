@@ -42,7 +42,7 @@
                 android:layout_marginTop="700dp"
                 android:layout_centerVertical="true"
                 android:layout_centerInParent="true"
-                android:visibility="visible"/>
+                android:visibility="invisible"/>
 
     <GridLayout
         android:layout_width="match_parent"

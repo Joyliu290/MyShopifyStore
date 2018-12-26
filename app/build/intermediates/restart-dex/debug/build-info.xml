@@ -6,39 +6,30 @@
     density="mdpi"
     format="10"
     plugin-version="2.3.2"
-    timestamp="1545802910518"
+    timestamp="1545804335469"
     token="3801867993551465266"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="1957" />
+        duration="1740" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="641" />
+        duration="114" />
     <task
         name="verifier"
-        duration="280" />
+        duration="31" />
 
-    <artifact
-        location="C:\Users\Joyli\ShopifyDemo\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\Joyli\ShopifyDemo\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
-        type="SPLIT" />
     <artifact
         location="C:\Users\Joyli\ShopifyDemo\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
         type="SPLIT" />
-    <artifact
-        location="C:\Users\Joyli\ShopifyDemo\app\build\outputs\apk\app-debug.apk"
-        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1545802482016"
+        timestamp="1545804169584"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\Users\Joyli\ShopifyDemo\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
@@ -79,20 +70,11 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1545802910518"
+        timestamp="1545804335469"
         verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="C:\Users\Joyli\ShopifyDemo\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\Joyli\ShopifyDemo\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
-            type="SPLIT" />
         <artifact
             location="C:\Users\Joyli\ShopifyDemo\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
             type="SPLIT" />
-        <artifact
-            location="C:\Users\Joyli\ShopifyDemo\app\build\outputs\apk\app-debug.apk"
-            type="SPLIT_MAIN" />
     </build>
 
 </instant-run>
