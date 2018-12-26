@@ -7,7 +7,7 @@
         android:layout_height="150dp"
         android:id="@+id/concertImage"
         android:layout_marginTop="20dp"
-        android:layout_marginLeft="30dp"/>
+        android:layout_marginLeft="10dp"/>
     
     <TextView
         android:layout_width="wrap_content"
@@ -18,7 +18,6 @@
         android:layout_marginTop="20dp"
         android:textSize="10pt"
         />
-
 
     <TextView
         android:layout_width="wrap_content"
@@ -67,12 +66,25 @@
         />
 
     <TextView
-        android:layout_width="match_parent"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/concertLocation"
+        android:text="Location: "
+        android:textStyle="bold"
+        android:id="@+id/concertLocationTitle"
         android:layout_toRightOf="@id/concertImage"
+        android:layout_below="@+id/concertTimeTitle"
+        android:layout_alignLeft="@+id/concertName"
+        android:layout_marginTop="10dp"
+        android:textSize="7pt"
+        />
+
+    <TextView
+        android:layout_width="400dp"
+        android:layout_height="50dp"
+        android:id="@+id/concertLocation"
+        android:layout_toRightOf="@id/concertLocationTitle"
         android:layout_below="@+id/concertTime"
-        android:layout_marginLeft="20dp"
+        android:layout_marginLeft="5dp"
         android:layout_marginTop="10dp"
         />
 

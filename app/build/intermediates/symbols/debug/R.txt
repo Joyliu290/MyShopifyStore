@@ -765,7 +765,7 @@ int id auto 0x7f0f002d
 int id basic 0x7f0f0015
 int id beginning 0x7f0f003f
 int id bottom 0x7f0f002e
-int id browse 0x7f0f00d0
+int id browse 0x7f0f00d1
 int id buttonPanel 0x7f0f0052
 int id cancel_action 0x7f0f00ab
 int id cart 0x7f0f00c2
@@ -783,7 +783,8 @@ int id collapseActionView 0x7f0f0042
 int id concertDate 0x7f0f00c6
 int id concertDateTitle 0x7f0f00c5
 int id concertImage 0x7f0f00c3
-int id concertLocation 0x7f0f00c9
+int id concertLocation 0x7f0f00ca
+int id concertLocationTitle 0x7f0f00c9
 int id concertName 0x7f0f00c4
 int id concertTime 0x7f0f00c8
 int id concertTimeTitle 0x7f0f00c7
@@ -810,7 +811,7 @@ int id expanded_menu 0x7f0f0061
 int id fill 0x7f0f003c
 int id fill_horizontal 0x7f0f003d
 int id fill_vertical 0x7f0f0033
-int id filter 0x7f0f00d1
+int id filter 0x7f0f00d2
 int id filterAlbumRadio 0x7f0f0098
 int id filterByArtistName 0x7f0f009a
 int id filterDialogueTitle 0x7f0f0097
@@ -847,7 +848,7 @@ int id line3 0x7f0f00bb
 int id linearLayout 0x7f0f00be
 int id listMode 0x7f0f0018
 int id list_item 0x7f0f004f
-int id masked 0x7f0f00cf
+int id masked 0x7f0f00d0
 int id media_actions 0x7f0f00ad
 int id middle 0x7f0f0040
 int id mini 0x7f0f003e
@@ -896,7 +897,7 @@ int id search_src_text 0x7f0f0074
 int id search_voice_btn 0x7f0f0078
 int id select_dialog_listview 0x7f0f0079
 int id shopFor 0x7f0f009c
-int id shoppingCart 0x7f0f00d3
+int id shoppingCart 0x7f0f00d4
 int id shortcut 0x7f0f0063
 int id showCustom 0x7f0f001d
 int id showHome 0x7f0f001e
@@ -905,11 +906,11 @@ int id smallLabel 0x7f0f008b
 int id snackbar_action 0x7f0f0090
 int id snackbar_text 0x7f0f008f
 int id snap 0x7f0f0025
-int id sort 0x7f0f00d2
-int id sortAlphabet 0x7f0f00cd
-int id sortDialogueTitle 0x7f0f00ca
-int id sortHighToLowPrice 0x7f0f00cb
-int id sortLowToHighPrice 0x7f0f00cc
+int id sort 0x7f0f00d3
+int id sortAlphabet 0x7f0f00ce
+int id sortDialogueTitle 0x7f0f00cb
+int id sortHighToLowPrice 0x7f0f00cc
+int id sortLowToHighPrice 0x7f0f00cd
 int id spacer 0x7f0f0053
 int id split_action_bar 0x7f0f0008
 int id spread 0x7f0f0010
@@ -942,7 +943,7 @@ int id transition_scene_layoutid_cache 0x7f0f000c
 int id up 0x7f0f000d
 int id useLogo 0x7f0f0020
 int id view_offset_helper 0x7f0f000e
-int id visible 0x7f0f00ce
+int id visible 0x7f0f00cf
 int id withText 0x7f0f0045
 int id wrap 0x7f0f0011
 int id wrap_content 0x7f0f002c
