@@ -80,7 +80,7 @@
 
     <TextView
         android:layout_width="400dp"
-        android:layout_height="50dp"
+        android:layout_height="wrap_content"
         android:id="@+id/concertLocation"
         android:layout_toRightOf="@id/concertLocationTitle"
         android:layout_below="@+id/concertTime"
@@ -88,9 +88,33 @@
         android:layout_marginTop="10dp"
         />
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Price Range: "
+        android:textStyle="bold"
+        android:id="@+id/concertPriceTitle"
+        android:layout_toRightOf="@id/concertImage"
+        android:layout_below="@+id/concertLocation"
+        android:layout_alignLeft="@+id/concertName"
+        android:layout_marginTop="10dp"
+        android:textSize="7pt"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/concertPrice"
+        android:layout_toRightOf="@id/concertPriceTitle"
+        android:layout_below="@+id/concertLocation"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="10dp"
+        />
+
+
     <View
         android:layout_width="match_parent"
-        android:layout_below="@+id/concertImage"
+        android:layout_below="@+id/concertPrice"
         android:layout_height="2dp"
         android:layout_marginTop="30dp"
         android:id="@+id/horizontalLine1"

@@ -6,29 +6,23 @@
     density="mdpi"
     format="10"
     plugin-version="2.3.2"
-    timestamp="1545797107641"
+    timestamp="1545797947344"
     token="3801867993551465266"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="2081" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="268" />
+        duration="0" />
     <task
         name="verifier"
-        duration="156" />
+        duration="0" />
 
-    <artifact
-        location="C:\Users\Joyli\ShopifyDemo\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\Joyli\ShopifyDemo\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
-        type="SPLIT" />
     <artifact
         location="C:\Users\Joyli\ShopifyDemo\app\build\outputs\apk\app-debug.apk"
         type="SPLIT_MAIN" />
@@ -76,7 +70,7 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1545797107641"
+        timestamp="1545797820761"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="C:\Users\Joyli\ShopifyDemo\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
@@ -84,6 +78,11 @@
         <artifact
             location="C:\Users\Joyli\ShopifyDemo\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
             type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1545797947344"
+        verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="C:\Users\Joyli\ShopifyDemo\app\build\outputs\apk\app-debug.apk"
             type="SPLIT_MAIN" />

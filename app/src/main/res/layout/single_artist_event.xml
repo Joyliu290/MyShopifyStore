@@ -80,7 +80,7 @@
 
     <TextView
         android:layout_width="400dp"
-        android:layout_height="50dp"
+        android:layout_height="wrap_content"
         android:id="@+id/concertLocation"
         android:layout_toRightOf="@id/concertLocationTitle"
         android:layout_below="@+id/concertTime"
