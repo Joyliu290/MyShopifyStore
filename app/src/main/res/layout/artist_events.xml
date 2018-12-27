@@ -2,12 +2,10 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="wrap_content" android:layout_height="wrap_content">
 
-
     <EditText
         android:layout_width="500dp"
         android:layout_height="50dp"
         android:layout_marginTop="70dp"
-        android:layout_below="@+id/pager"
         android:id="@+id/searchArtistName"
         android:hint="Search For Your Artist..."
         android:layout_marginLeft="20dp"
@@ -27,36 +25,31 @@
         android:textSize="30dp"
         android:background="#fbb0c3"/>
 
-    <ScrollView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content">
-
-        <RelativeLayout
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content">
-
             <ProgressBar
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/progressBarForArtistEvent"
                 android:layout_centerHorizontal="true"
-                android:layout_marginLeft="700dp"
+                android:layout_marginStart="700dp"
                 android:layout_marginTop="700dp"
                 android:layout_centerVertical="true"
                 android:layout_centerInParent="true"
                 android:visibility="invisible"/>
 
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:id="@+id/scrollView"
+        android:layout_below="@+id/searchButton"
+        android:layout_marginTop="20dp"
+        android:layout_height="wrap_content">
 
     <GridLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/gridLayoutConcert"
-        android:layout_marginLeft="20dp"
+        android:layout_marginStart="20dp"
         android:columnCount="1"
-        android:layout_marginTop="200dp"
         android:layout_marginBottom="80dp" />
-
-        </RelativeLayout>
 
     </ScrollView>
 
