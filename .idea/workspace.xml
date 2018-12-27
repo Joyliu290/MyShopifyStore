@@ -12,8 +12,8 @@
     </shared>
   </component>
   <component name="AndroidLogFilters">
-    <option name="TOOL_WINDOW_LOG_LEVEL" value="debug" />
-    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Firebase" />
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="error" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="No Filters" />
   </component>
   <component name="ChangeListManager">
     <list id="250b7066-ca5b-408a-92cb-7cb29a9ae1e1" name="Default" comment="Home page UI is now complete" />
@@ -22,19 +22,38 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/zip-cache/sIZIqFI65wqtbiSWMgzdI06zdNc=" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/zip-cache/sIZIqFI65wqtbiSWMgzdI06zdNc=" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageInstantRunResourcesDebug/zip-cache/sIZIqFI65wqtbiSWMgzdI06zdNc=" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageInstantRunResourcesDebug/zip-cache/sIZIqFI65wqtbiSWMgzdI06zdNc=" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/joyli/example/com/shopifydemo/artistEventsFragment$1$1$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/joyli/example/com/shopifydemo/artistEventsFragment$1$1$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/joyli/example/com/shopifydemo/artistEventsFragment$1$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/joyli/example/com/shopifydemo/artistEventsFragment$1$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/joyli/example/com/shopifydemo/artistEventsFragment$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/joyli/example/com/shopifydemo/artistEventsFragment$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/joyli/example/com/shopifydemo/artistEventsFragment$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/joyli/example/com/shopifydemo/artistEventsFragment$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/joyli/example/com/shopifydemo/artistEventsFragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/joyli/example/com/shopifydemo/artistEventsFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/artistEventsFragment$1$1$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/artistEventsFragment$1$1$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/artistEventsFragment$1$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/artistEventsFragment$1$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/artistEventsFragment$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/artistEventsFragment$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/artistEventsFragment$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/artistEventsFragment$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/artistEventsFragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/artistEventsFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_9.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_9.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/artistEventsFragment$1$1$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/artistEventsFragment$1$1$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/artistEventsFragment$1$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/artistEventsFragment$1$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/artistEventsFragment$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/artistEventsFragment$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/artistEventsFragment$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/artistEventsFragment$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/artistEventsFragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/artistEventsFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/artistEventsFragment$1$1$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/artistEventsFragment$1$1$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/artistEventsFragment$1$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/artistEventsFragment$1$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/artistEventsFragment$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/artistEventsFragment$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/artistEventsFragment$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/artistEventsFragment$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/artistEventsFragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/artistEventsFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/artistEventsFragment$1$1$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/artistEventsFragment$1$1$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/artistEventsFragment$1$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/artistEventsFragment$1$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/artistEventsFragment$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/artistEventsFragment$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/artistEventsFragment$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/artistEventsFragment$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/artistEventsFragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/artistEventsFragment.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/joyli/example/com/shopifydemo" afterPath="$PROJECT_DIR$/app/src/main/java/joyli/example/com/shopifydemo" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageInstantRunResourcesDebug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageInstantRunResourcesDebug/dex-renamer-state.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/artist_events.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/artist_events.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_9/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_9/dex-renamer-state.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/restart-dex/debug/build-info.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/restart-dex/debug/build-info.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/artist_events.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/artist_events.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/buildId.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/buildId.txt" />
     </list>
     <ignored path="ShopifyDemo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -122,7 +141,7 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/java/joyli/example/com/shopifydemo/artistEventsFragment.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
-              <caret line="46" column="47" selection-start-line="46" selection-start-column="47" selection-end-line="46" selection-end-column="47" />
+              <caret line="73" column="67" selection-start-line="73" selection-start-column="67" selection-end-line="73" selection-end-column="67" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -2070,8 +2089,8 @@
         <option value="$PROJECT_DIR$/app/src/main/java/joyli/example/com/shopifydemo/TicketMaster JSON 1" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/artist_name.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/single_artist_event.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/joyli/example/com/shopifydemo/artistEventsFragment.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/artist_events.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/joyli/example/com/shopifydemo/artistEventsFragment.java" />
       </list>
     </option>
   </component>
@@ -2428,7 +2447,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="2" width="1378" height="733" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32869565" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32869565" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
@@ -2436,7 +2455,7 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.50956523" sideWeight="0.5060698" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.56173915" sideWeight="0.4939302" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.56173915" sideWeight="0.4939302" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32869565" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32869565" sideWeight="0.49394855" order="9" side_tool="false" content_ui="tabs" />
@@ -2922,7 +2941,7 @@
     <entry file="file://$PROJECT_DIR$/app/src/main/java/joyli/example/com/shopifydemo/artistEventsFragment.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
-          <caret line="46" column="47" selection-start-line="46" selection-start-column="47" selection-end-line="46" selection-end-column="47" />
+          <caret line="73" column="67" selection-start-line="73" selection-start-column="67" selection-end-line="73" selection-end-column="67" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
