@@ -674,13 +674,13 @@ public final class R {
         public static final int abc_textfield_search_material = 0x7f020051;
         public static final int abc_vector_test = 0x7f020052;
         public static final int avd_hide_password = 0x7f020054;
-        public static final int avd_hide_password_1 = 0x7f020071;
-        public static final int avd_hide_password_2 = 0x7f020072;
-        public static final int avd_hide_password_3 = 0x7f020073;
+        public static final int avd_hide_password_1 = 0x7f020073;
+        public static final int avd_hide_password_2 = 0x7f020074;
+        public static final int avd_hide_password_3 = 0x7f020075;
         public static final int avd_show_password = 0x7f020055;
-        public static final int avd_show_password_1 = 0x7f020074;
-        public static final int avd_show_password_2 = 0x7f020075;
-        public static final int avd_show_password_3 = 0x7f020076;
+        public static final int avd_show_password_1 = 0x7f020076;
+        public static final int avd_show_password_2 = 0x7f020077;
+        public static final int avd_show_password_3 = 0x7f020078;
         public static final int design_bottom_navigation_item_background = 0x7f02005a;
         public static final int design_fab_background = 0x7f02005b;
         public static final int design_ic_visibility = 0x7f02005c;
@@ -696,8 +696,8 @@ public final class R {
         public static final int notification_bg_normal = 0x7f020068;
         public static final int notification_bg_normal_pressed = 0x7f020069;
         public static final int notification_icon_background = 0x7f02006a;
-        public static final int notification_template_icon_bg = 0x7f02006f;
-        public static final int notification_template_icon_low_bg = 0x7f020070;
+        public static final int notification_template_icon_bg = 0x7f020071;
+        public static final int notification_template_icon_low_bg = 0x7f020072;
         public static final int notification_tile_bg = 0x7f02006b;
         public static final int notify_panel_notification_icon_bg = 0x7f02006c;
     }
@@ -776,7 +776,7 @@ public final class R {
         public static final int line3 = 0x7f0f00bc;
         public static final int listMode = 0x7f0f0018;
         public static final int list_item = 0x7f0f004f;
-        public static final int masked = 0x7f0f00d3;
+        public static final int masked = 0x7f0f00d5;
         public static final int media_actions = 0x7f0f00ae;
         public static final int middle = 0x7f0f0040;
         public static final int mini = 0x7f0f003e;
@@ -851,7 +851,7 @@ public final class R {
         public static final int up = 0x7f0f000d;
         public static final int useLogo = 0x7f0f0020;
         public static final int view_offset_helper = 0x7f0f000e;
-        public static final int visible = 0x7f0f00d2;
+        public static final int visible = 0x7f0f00d4;
         public static final int withText = 0x7f0f0045;
         public static final int wrap_content = 0x7f0f002c;
     }

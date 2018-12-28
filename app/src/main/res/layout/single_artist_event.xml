@@ -111,12 +111,32 @@
         android:layout_marginTop="10dp"
         />
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/logoTitle"
+        android:text="Powered by:"
+        android:layout_below="@id/concertPrice"
+        android:layout_alignLeft="@+id/concertName"
+        android:layout_marginTop="50dp"
+        android:textSize="7pt"/>
+
+    <ImageView
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:id="@+id/testLogo"
+        android:layout_below="@id/concertPrice"
+        android:layout_marginTop="20dp"
+        android:src="@drawable/ticketmaster_updated_logo"
+        android:layout_marginLeft="10dp"
+        android:layout_toRightOf="@+id/logoTitle"/>
+
 
     <View
         android:layout_width="match_parent"
-        android:layout_below="@+id/concertPrice"
+        android:layout_below="@+id/testLogo"
         android:layout_height="2dp"
-        android:layout_marginTop="30dp"
+        android:layout_marginTop="10dp"
         android:id="@+id/horizontalLine1"
         android:background="#fbb0c3"/>
 
