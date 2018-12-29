@@ -138,9 +138,7 @@
         android:layout_height="100dp"
         android:id="@+id/testLogo"
         android:layout_below="@id/concertPrice"
-        android:layout_marginTop="0dp"
         android:src="@drawable/ticketmaster_updated_logo"
-        android:layout_marginLeft="10dp"
         android:layout_toRightOf="@+id/logoTitle"/>
 
     <View
