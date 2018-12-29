@@ -111,13 +111,25 @@
         android:layout_marginTop="10dp"
         />
 
+    <Button
+        android:layout_width="80dp"
+        android:layout_height="40dp"
+        android:id="@+id/buyTicketButton"
+        android:layout_below="@+id/concertPrice"
+        android:layout_alignLeft="@+id/concertName"
+        android:text="BUY"
+        android:textColor="#ffffff"
+        android:layout_marginTop="27dp"
+        android:background="@color/colorPrimary"/>
+
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/logoTitle"
         android:text="Powered by:"
         android:layout_below="@id/concertPrice"
-        android:layout_alignLeft="@+id/concertName"
+        android:layout_toRightOf="@+id/buyTicketButton"
+        android:layout_marginLeft="20dp"
         android:layout_marginTop="38dp"
         android:textSize="7pt"/>
 

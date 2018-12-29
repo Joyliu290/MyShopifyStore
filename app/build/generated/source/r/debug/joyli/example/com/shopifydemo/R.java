@@ -3148,8 +3148,9 @@ containing a value of this type.
         public static final int basic=0x7f0f0015;
         public static final int beginning=0x7f0f003f;
         public static final int bottom=0x7f0f002e;
-        public static final int browse=0x7f0f00d6;
+        public static final int browse=0x7f0f00d7;
         public static final int buttonPanel=0x7f0f0052;
+        public static final int buyTicketButton=0x7f0f00ce;
         public static final int cancel_action=0x7f0f00ac;
         public static final int cart=0x7f0f00c3;
         public static final int cartEstimatedTotal=0x7f0f0084;
@@ -3196,7 +3197,7 @@ containing a value of this type.
         public static final int fill=0x7f0f003c;
         public static final int fill_horizontal=0x7f0f003d;
         public static final int fill_vertical=0x7f0f0033;
-        public static final int filter=0x7f0f00d7;
+        public static final int filter=0x7f0f00d8;
         public static final int filterAlbumRadio=0x7f0f0099;
         public static final int filterByArtistName=0x7f0f009b;
         public static final int filterDialogueTitle=0x7f0f0098;
@@ -3233,8 +3234,8 @@ containing a value of this type.
         public static final int linearLayout=0x7f0f00bf;
         public static final int listMode=0x7f0f0018;
         public static final int list_item=0x7f0f004f;
-        public static final int logoTitle=0x7f0f00ce;
-        public static final int masked=0x7f0f00d5;
+        public static final int logoTitle=0x7f0f00cf;
+        public static final int masked=0x7f0f00d6;
         public static final int media_actions=0x7f0f00ae;
         public static final int middle=0x7f0f0040;
         public static final int mini=0x7f0f003e;
@@ -3284,7 +3285,7 @@ containing a value of this type.
         public static final int search_voice_btn=0x7f0f0078;
         public static final int select_dialog_listview=0x7f0f0079;
         public static final int shopFor=0x7f0f009d;
-        public static final int shoppingCart=0x7f0f00d9;
+        public static final int shoppingCart=0x7f0f00da;
         public static final int shortcut=0x7f0f0063;
         public static final int showCustom=0x7f0f001d;
         public static final int showHome=0x7f0f001e;
@@ -3293,11 +3294,11 @@ containing a value of this type.
         public static final int snackbar_action=0x7f0f0091;
         public static final int snackbar_text=0x7f0f0090;
         public static final int snap=0x7f0f0025;
-        public static final int sort=0x7f0f00d8;
-        public static final int sortAlphabet=0x7f0f00d3;
-        public static final int sortDialogueTitle=0x7f0f00d0;
-        public static final int sortHighToLowPrice=0x7f0f00d1;
-        public static final int sortLowToHighPrice=0x7f0f00d2;
+        public static final int sort=0x7f0f00d9;
+        public static final int sortAlphabet=0x7f0f00d4;
+        public static final int sortDialogueTitle=0x7f0f00d1;
+        public static final int sortHighToLowPrice=0x7f0f00d2;
+        public static final int sortLowToHighPrice=0x7f0f00d3;
         public static final int spacer=0x7f0f0053;
         public static final int split_action_bar=0x7f0f0008;
         public static final int spread=0x7f0f0010;
@@ -3311,7 +3312,7 @@ containing a value of this type.
         public static final int submit_area=0x7f0f0076;
         public static final int tabLayout=0x7f0f007b;
         public static final int tabMode=0x7f0f001a;
-        public static final int testLogo=0x7f0f00cf;
+        public static final int testLogo=0x7f0f00d0;
         public static final int text=0x7f0f00bd;
         public static final int text2=0x7f0f00bb;
         public static final int textSpacerNoButtons=0x7f0f0059;
@@ -3331,7 +3332,7 @@ containing a value of this type.
         public static final int up=0x7f0f000d;
         public static final int useLogo=0x7f0f0020;
         public static final int view_offset_helper=0x7f0f000e;
-        public static final int visible=0x7f0f00d4;
+        public static final int visible=0x7f0f00d5;
         public static final int withText=0x7f0f0045;
         public static final int wrap=0x7f0f0011;
         public static final int wrap_content=0x7f0f002c;
