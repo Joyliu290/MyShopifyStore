@@ -2,17 +2,6 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="wrap_content" android:layout_height="wrap_content">
 
-    <!--<EditText-->
-        <!--android:layout_width="500dp"-->
-        <!--android:layout_height="50dp"-->
-        <!--android:layout_marginTop="70dp"-->
-        <!--android:id="@+id/searchArtistName"-->
-        <!--android:hint="Search For Your Artist..."-->
-        <!--android:layout_marginLeft="20dp"-->
-        <!--android:layout_marginRight="10dp"-->
-        <!--android:textColorHint="@color/colorPrimary"-->
-        <!--/>-->
-
     <AutoCompleteTextView
         android:layout_width="500dp"
         android:layout_height="50dp"
@@ -22,8 +11,15 @@
         android:layout_marginLeft="20dp"
         android:layout_marginRight="10dp"
         android:textColorHint="@color/colorPrimary"
-        android:completionThreshold="1"
-        android:completionHint="Select an Artist"/>
+        android:completionThreshold="1" />
+
+    <ImageView
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:id="@+id/clearSearch"
+        android:layout_marginLeft="490dp"
+        android:layout_marginTop="77dp"
+        android:src="@drawable/error"/>
 
     <Button
         android:layout_width="200dp"

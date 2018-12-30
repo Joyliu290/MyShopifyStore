@@ -52,12 +52,12 @@
         "source": "C:\\Users\\Joyli\\.android\\build-cache\\7186d664db76c7ad7f35760a8373b0e810ee77fe\\output\\res\\drawable\\design_password_eye.xml"
     },
     {
-        "merged": "C:\\Users\\Joyli\\ShopifyDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
-        "source": "C:\\Users\\Joyli\\.android\\build-cache\\594c73ff7c715606fa112f6830b9caab931ddc61\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
-    },
-    {
         "merged": "C:\\Users\\Joyli\\ShopifyDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
         "source": "C:\\Users\\Joyli\\.android\\build-cache\\594c73ff7c715606fa112f6830b9caab931ddc61\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joyli\\ShopifyDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Joyli\\.android\\build-cache\\594c73ff7c715606fa112f6830b9caab931ddc61\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
     },
     {
         "merged": "C:\\Users\\Joyli\\ShopifyDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
@@ -134,6 +134,10 @@
     {
         "merged": "C:\\Users\\Joyli\\ShopifyDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\filter.png",
         "source": "C:\\Users\\Joyli\\ShopifyDemo\\app\\src\\main\\res\\drawable\\filter.png"
+    },
+    {
+        "merged": "C:\\Users\\Joyli\\ShopifyDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\error.png",
+        "source": "C:\\Users\\Joyli\\ShopifyDemo\\app\\src\\main\\res\\drawable\\error.png"
     },
     {
         "merged": "C:\\Users\\Joyli\\ShopifyDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
