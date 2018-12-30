@@ -14,18 +14,18 @@
         android:completionThreshold="1" />
 
     <ImageView
-        android:layout_width="30dp"
-        android:layout_height="30dp"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
         android:id="@+id/clearSearch"
-        android:layout_marginLeft="490dp"
-        android:layout_marginTop="77dp"
+        android:layout_marginLeft="500dp"
+        android:layout_marginTop="90dp"
         android:src="@drawable/error"/>
 
     <Button
         android:layout_width="200dp"
         android:layout_height="70dp"
         android:layout_toRightOf="@+id/searchArtistName"
-        android:text="Enter"
+        android:text="Search"
         android:textColor="#ffffff"
         android:id="@+id/searchButton"
         android:layout_marginLeft="30dp"

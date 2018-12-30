@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sat Dec 29 23:21:45 EST 2018
+#Sat Dec 29 23:27:17 EST 2018
 100.set=ANDROID_RESOURCE
 57.file=C\:\\Users\\Joyli\\ShopifyDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\raw\\joda_asia_ust_nera
 145.file=C\:\\Users\\Joyli\\ShopifyDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\raw\\joda_america_ensenada
