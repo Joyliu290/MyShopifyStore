@@ -7,11 +7,13 @@
         android:layout_height="50dp"
         android:layout_marginTop="70dp"
         android:id="@+id/searchArtistName"
-        android:hint="Search For Your Artist..."
+        android:hint="Search For Your Artist and Press Enter Key"
         android:layout_marginLeft="20dp"
         android:layout_marginRight="10dp"
         android:textColorHint="@color/colorPrimary"
-        android:completionThreshold="1" />
+        android:completionThreshold="1"
+        android:imeOptions="actionDone"
+        android:maxLines="1"/>
 
     <ImageView
         android:layout_width="20dp"
