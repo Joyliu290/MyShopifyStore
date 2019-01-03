@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue Jan 01 23:57:11 EST 2019
+#Wed Jan 02 00:01:21 EST 2019
 20.base=C\:\\Users\\Joyli\\ShopifyDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
 143.base=C\:\\Users\\Joyli\\ShopifyDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
 493.base=C\:\\Users\\Joyli\\ShopifyDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
