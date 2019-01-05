@@ -19,7 +19,6 @@
     <list id="250b7066-ca5b-408a-92cb-7cb29a9ae1e1" name="Default" comment="Home page UI is now complete" />
     <list default="true" id="65c50838-ead9-4f81-9419-c9ca6819aab0" name="New changelist" comment="Added horizontal scroll functiaonalities to home screen view">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/joyli/example/com/shopifydemo" afterPath="$PROJECT_DIR$/app/src/main/java/joyli/example/com/shopifydemo" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/product_detail.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/product_detail.xml" />
     </list>
     <ignored path="ShopifyDemo.iws" />
@@ -55,8 +54,8 @@
       <file leaf-file-name="product_detail.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/product_detail.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="23" column="36" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+            <state relative-caret-position="350">
+              <caret line="53" column="52" selection-start-line="53" selection-start-column="52" selection-end-line="53" selection-end-column="52" />
               <folding />
             </state>
           </provider>
@@ -2936,8 +2935,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/product_detail.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="23" column="36" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+        <state relative-caret-position="350">
+          <caret line="53" column="52" selection-start-line="53" selection-start-column="52" selection-end-line="53" selection-end-column="52" />
           <folding />
         </state>
       </provider>

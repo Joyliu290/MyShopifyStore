@@ -28,10 +28,30 @@
                 android:layout_marginLeft="20dp"
                 android:textStyle="bold"
                 />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:textSize="12pt"
+                android:textStyle="bold"
+                android:layout_below="@+id/productDetailTitle"
+                android:id="@+id/productDetailPrice"
+                android:layout_marginTop="20dp"
+                android:layout_marginLeft="20dp"
+                android:textColor="@color/colorAccent"/>
+
 
         </RelativeLayout>
     </ScrollView>
 
-
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_alignParentBottom="true"
+        android:background="@color/colorPrimary"
+        android:textColor="#ffffff"
+        android:text="ADD TO CART"
+        android:textSize="11pt"
+        android:id="@+id/productDetailAddCartButton"
+        />
 
 </RelativeLayout>
