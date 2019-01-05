@@ -20,7 +20,7 @@
         </activity>
 
         <activity
-            android:name=".startShoppingCart"
+            android:name=".StartShoppingCart"
             android:label="">
             <intent-filter>
                 <action android:name="joyli.example.com.shopifydemo.startShoppingCart" />
