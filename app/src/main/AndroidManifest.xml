@@ -23,7 +23,7 @@
             android:name=".StartShoppingCart"
             android:label="">
             <intent-filter>
-                <action android:name="joyli.example.com.shopifydemo.startShoppingCart" />
+                <action android:name="joyli.example.com.shopifydemo.StartShoppingCart" />
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>

@@ -1,4 +1,4 @@
-#Wed Sep 19 22:55:27 EDT 2018
+#Sat Jan 05 00:11:02 EST 2019
 file.9=C\:\\Users\\Joyli\\ShopifyDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_922e8127c09812efeb06c1826e06c031482cd904\\classes.dex
 base.10=C\:\\Users\\Joyli\\ShopifyDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_c3c45e924c1dfe69e545535497f0bae7402b73da
 file.8=C\:\\Users\\Joyli\\ShopifyDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_19398ea3c326d6e59402524f25d7a72f77fdd896\\classes.dex

@@ -59,15 +59,15 @@ category#android.intent.category.LAUNCHER
 ADDED from C:\Users\Joyli\ShopifyDemo\app\src\main\AndroidManifest.xml:18:17-77
 	android:name
 		ADDED from C:\Users\Joyli\ShopifyDemo\app\src\main\AndroidManifest.xml:18:27-74
-activity#joyli.example.com.shopifydemo.startShoppingCart
+activity#joyli.example.com.shopifydemo.StartShoppingCart
 ADDED from C:\Users\Joyli\ShopifyDemo\app\src\main\AndroidManifest.xml:22:9-29:20
 	android:label
 		ADDED from C:\Users\Joyli\ShopifyDemo\app\src\main\AndroidManifest.xml:24:13-29
 	android:name
 		ADDED from C:\Users\Joyli\ShopifyDemo\app\src\main\AndroidManifest.xml:23:13-46
-intent-filter#android.intent.category.DEFAULT+joyli.example.com.shopifydemo.startShoppingCart
+intent-filter#android.intent.category.DEFAULT+joyli.example.com.shopifydemo.StartShoppingCart
 ADDED from C:\Users\Joyli\ShopifyDemo\app\src\main\AndroidManifest.xml:25:13-28:29
-action#joyli.example.com.shopifydemo.startShoppingCart
+action#joyli.example.com.shopifydemo.StartShoppingCart
 ADDED from C:\Users\Joyli\ShopifyDemo\app\src\main\AndroidManifest.xml:26:17-90
 	android:name
 		ADDED from C:\Users\Joyli\ShopifyDemo\app\src\main\AndroidManifest.xml:26:25-87

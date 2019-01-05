@@ -84,12 +84,16 @@
         "source": "C:\\Users\\Joyli\\.android\\build-cache\\7186d664db76c7ad7f35760a8373b0e810ee77fe\\output\\res\\drawable\\design_fab_background.xml"
     },
     {
-        "merged": "C:\\Users\\Joyli\\ShopifyDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
-        "source": "C:\\Users\\Joyli\\.android\\build-cache\\594c73ff7c715606fa112f6830b9caab931ddc61\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+        "merged": "C:\\Users\\Joyli\\ShopifyDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ticketmaster_logo_for_app.png",
+        "source": "C:\\Users\\Joyli\\ShopifyDemo\\app\\src\\main\\res\\drawable\\ticketmaster_logo_for_app.png"
     },
     {
         "merged": "C:\\Users\\Joyli\\ShopifyDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ticketmaster_updated_logo.png",
         "source": "C:\\Users\\Joyli\\ShopifyDemo\\app\\src\\main\\res\\drawable\\ticketmaster_updated_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Joyli\\ShopifyDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Joyli\\.android\\build-cache\\594c73ff7c715606fa112f6830b9caab931ddc61\\output\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
         "merged": "C:\\Users\\Joyli\\ShopifyDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
@@ -120,12 +124,12 @@
         "source": "C:\\Users\\Joyli\\.android\\build-cache\\594c73ff7c715606fa112f6830b9caab931ddc61\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Joyli\\ShopifyDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
-        "source": "C:\\Users\\Joyli\\.android\\build-cache\\594c73ff7c715606fa112f6830b9caab931ddc61\\output\\res\\drawable\\abc_vector_test.xml"
-    },
-    {
         "merged": "C:\\Users\\Joyli\\ShopifyDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shopping_cart.png",
         "source": "C:\\Users\\Joyli\\ShopifyDemo\\app\\src\\main\\res\\drawable\\shopping_cart.png"
+    },
+    {
+        "merged": "C:\\Users\\Joyli\\ShopifyDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Joyli\\.android\\build-cache\\594c73ff7c715606fa112f6830b9caab931ddc61\\output\\res\\drawable\\abc_vector_test.xml"
     },
     {
         "merged": "C:\\Users\\Joyli\\ShopifyDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
@@ -136,12 +140,12 @@
         "source": "C:\\Users\\Joyli\\.android\\build-cache\\594c73ff7c715606fa112f6830b9caab931ddc61\\output\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
-        "merged": "C:\\Users\\Joyli\\ShopifyDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\filter.png",
-        "source": "C:\\Users\\Joyli\\ShopifyDemo\\app\\src\\main\\res\\drawable\\filter.png"
-    },
-    {
         "merged": "C:\\Users\\Joyli\\ShopifyDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\error.png",
         "source": "C:\\Users\\Joyli\\ShopifyDemo\\app\\src\\main\\res\\drawable\\error.png"
+    },
+    {
+        "merged": "C:\\Users\\Joyli\\ShopifyDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\filter.png",
+        "source": "C:\\Users\\Joyli\\ShopifyDemo\\app\\src\\main\\res\\drawable\\filter.png"
     },
     {
         "merged": "C:\\Users\\Joyli\\ShopifyDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",

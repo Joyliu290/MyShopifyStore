@@ -48,6 +48,10 @@
         "source": "C:\\Users\\Joyli\\.android\\build-cache\\7186d664db76c7ad7f35760a8373b0e810ee77fe\\output\\res\\layout\\design_navigation_item_header.xml"
     },
     {
+        "merged": "C:\\Users\\Joyli\\ShopifyDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\product_detail.xml",
+        "source": "C:\\Users\\Joyli\\ShopifyDemo\\app\\src\\main\\res\\layout\\product_detail.xml"
+    },
+    {
         "merged": "C:\\Users\\Joyli\\ShopifyDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
         "source": "C:\\Users\\Joyli\\.android\\build-cache\\594c73ff7c715606fa112f6830b9caab931ddc61\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
     },
