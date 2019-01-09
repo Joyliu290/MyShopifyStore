@@ -18,10 +18,368 @@
   <component name="ChangeListManager">
     <list id="250b7066-ca5b-408a-92cb-7cb29a9ae1e1" name="Default" comment="Home page UI is now complete" />
     <list default="true" id="65c50838-ead9-4f81-9419-c9ca6819aab0" name="New changelist" comment="Added horizontal scroll functiaonalities to home screen view">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/joyli/example/com/shopifydemo/ArtistEventsFragment$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/joyli/example/com/shopifydemo/ArtistEventsFragment$1$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/joyli/example/com/shopifydemo/ShoppingCartFragment$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/joyli/example/com/shopifydemo/artistEventsFragment$2$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/joyli/example/com/shopifydemo/artistEventsFragment$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/joyli/example/com/shopifydemo/catalogueFragment$1$1$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/joyli/example/com/shopifydemo/catalogueFragment$1$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/joyli/example/com/shopifydemo/catalogueFragment$1$2$1$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/joyli/example/com/shopifydemo/catalogueFragment$1$2$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/joyli/example/com/shopifydemo/catalogueFragment$1$2$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/joyli/example/com/shopifydemo/catalogueFragment$1$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/joyli/example/com/shopifydemo/catalogueFragment$1$3$1$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/joyli/example/com/shopifydemo/catalogueFragment$1$3$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/joyli/example/com/shopifydemo/catalogueFragment$1$3$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/joyli/example/com/shopifydemo/catalogueFragment$1$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/joyli/example/com/shopifydemo/catalogueFragment$1$4$1$1$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/joyli/example/com/shopifydemo/catalogueFragment$1$4$1$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/joyli/example/com/shopifydemo/catalogueFragment$1$4$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/joyli/example/com/shopifydemo/catalogueFragment$1$4$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/joyli/example/com/shopifydemo/catalogueFragment$1$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/joyli/example/com/shopifydemo/catalogueFragment$1$5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/joyli/example/com/shopifydemo/catalogueFragment$1$6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/joyli/example/com/shopifydemo/catalogueFragment$1$7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/joyli/example/com/shopifydemo/sortString.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/ArtistEventsFragment$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/ArtistEventsFragment$1$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/ShoppingCartFragment$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/artistEventsFragment$2$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/artistEventsFragment$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/catalogueFragment$1$1$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/catalogueFragment$1$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/catalogueFragment$1$2$1$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/catalogueFragment$1$2$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/catalogueFragment$1$2$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/catalogueFragment$1$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/catalogueFragment$1$3$1$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/catalogueFragment$1$3$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/catalogueFragment$1$3$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/catalogueFragment$1$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/catalogueFragment$1$4$1$1$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/catalogueFragment$1$4$1$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/catalogueFragment$1$4$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/catalogueFragment$1$4$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/catalogueFragment$1$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/catalogueFragment$1$5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/catalogueFragment$1$6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/catalogueFragment$1$7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/sortString.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-af/values-af.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-am/values-am.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ar-rEG/values-ar-rEG.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ar/values-ar.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-az-rAZ/values-az-rAZ.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-az/values-az.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-b+sr+Latn/values-b+sr+Latn.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-be-rBY/values-be-rBY.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-be/values-be.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bg/values-bg.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bn-rBD/values-bn-rBD.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bs-rBA/values-bs-rBA.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ca/values-ca.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-cs/values-cs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-da/values-da.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-de/values-de.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-el/values-el.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rAU/values-en-rAU.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rCA/values-en-rCA.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rGB/values-en-rGB.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rIE/values-en-rIE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rIN/values-en-rIN.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rNZ/values-en-rNZ.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rUS/values-en-rUS.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rZA/values-en-rZA.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-es-rUS/values-es-rUS.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-es/values-es.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-et-rEE/values-et-rEE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-et/values-et.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-eu-rES/values-eu-rES.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fa/values-fa.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fi-rFI/values-fi-rFI.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fi/values-fi.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr-rCA/values-fr-rCA.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr/values-fr.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-gl-rES/values-gl-rES.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-gu-rIN/values-gu-rIN.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hi-rIN/values-hi-rIN.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hi/values-hi.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hr-rHR/values-hr-rHR.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hr/values-hr.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hu-rHU/values-hu-rHU.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hu/values-hu.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hy-rAM/values-hy-rAM.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hy/values-hy.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-in-rID/values-in-rID.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-in/values-in.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-is-rIS/values-is-rIS.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-it/values-it.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-iw/values-iw.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ja/values-ja.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ka-rGE/values-ka-rGE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ka/values-ka.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-kk-rKZ/values-kk-rKZ.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-km-rKH/values-km-rKH.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-km/values-km.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-kn-rIN/values-kn-rIN.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ko/values-ko.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ky-rKG/values-ky-rKG.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-large-v4/values-large-v4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lo-rLA/values-lo-rLA.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lo/values-lo.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lt-rLT/values-lt-rLT.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lt/values-lt.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lv-rLV/values-lv-rLV.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lv/values-lv.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mk-rMK/values-mk-rMK.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ml-rIN/values-ml-rIN.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mn-rMN/values-mn-rMN.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mn/values-mn.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mr-rIN/values-mr-rIN.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ms-rMY/values-ms-rMY.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ms/values-ms.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-my-rMM/values-my-rMM.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-nb/values-nb.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ne-rNP/values-ne-rNP.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ne/values-ne.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-nl/values-nl.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pa-rIN/values-pa-rIN.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pl/values-pl.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rBR/values-pt-rBR.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rPT/values-pt-rPT.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt/values-pt.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-rm/values-rm.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ro-rRO/values-ro-rRO.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ro/values-ro.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ru/values-ru.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-si-rLK/values-si-rLK.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-si/values-si.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sk-rSK/values-sk-rSK.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sk/values-sk.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sl-rSI/values-sl-rSI.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sl/values-sl.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sq-rAL/values-sq-rAL.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sr-rRS/values-sr-rRS.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sr/values-sr.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sv/values-sv.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw/values-sw.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ta-rIN/values-ta-rIN.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-te-rIN/values-te-rIN.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-th-rTH/values-th-rTH.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-th/values-th.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-tl/values-tl.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-tr/values-tr.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-uk-rUA/values-uk-rUA.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-uk/values-uk.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ur-rPK/values-ur-rPK.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-uz-rUZ/values-uz-rUZ.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v12/values-v12.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v13/values-v13.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v17/values-v17.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v22/values-v22.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v25/values-v25.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-vi-rVN/values-vi-rVN.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-vi/values-vi.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xlarge-v4/values-xlarge-v4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rCN/values-zh-rCN.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rHK/values-zh-rHK.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rTW/values-zh-rTW.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zu/values-zu.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/ArtistEventsFragment$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/ArtistEventsFragment$1$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/ShoppingCartFragment$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/artistEventsFragment$2$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/artistEventsFragment$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/catalogueFragment$1$1$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/catalogueFragment$1$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/catalogueFragment$1$2$1$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/catalogueFragment$1$2$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/catalogueFragment$1$2$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/catalogueFragment$1$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/catalogueFragment$1$3$1$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/catalogueFragment$1$3$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/catalogueFragment$1$3$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/catalogueFragment$1$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/catalogueFragment$1$4$1$1$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/catalogueFragment$1$4$1$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/catalogueFragment$1$4$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/catalogueFragment$1$4$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/catalogueFragment$1$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/catalogueFragment$1$5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/catalogueFragment$1$6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/catalogueFragment$1$7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/sortString.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/ArtistEventsFragment$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/ArtistEventsFragment$1$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/ShoppingCartFragment$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/artistEventsFragment$2$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/artistEventsFragment$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/catalogueFragment$1$1$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/catalogueFragment$1$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/catalogueFragment$1$2$1$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/catalogueFragment$1$2$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/catalogueFragment$1$2$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/catalogueFragment$1$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/catalogueFragment$1$3$1$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/catalogueFragment$1$3$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/catalogueFragment$1$3$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/catalogueFragment$1$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/catalogueFragment$1$4$1$1$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/catalogueFragment$1$4$1$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/catalogueFragment$1$4$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/catalogueFragment$1$4$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/catalogueFragment$1$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/catalogueFragment$1$5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/catalogueFragment$1$6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/catalogueFragment$1$7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/sortString.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/ArtistEventsFragment$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/ArtistEventsFragment$1$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/ShoppingCartFragment$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/artistEventsFragment$2$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/artistEventsFragment$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/catalogueFragment$1$1$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/catalogueFragment$1$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/catalogueFragment$1$2$1$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/catalogueFragment$1$2$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/catalogueFragment$1$2$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/catalogueFragment$1$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/catalogueFragment$1$3$1$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/catalogueFragment$1$3$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/catalogueFragment$1$3$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/catalogueFragment$1$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/catalogueFragment$1$4$1$1$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/catalogueFragment$1$4$1$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/catalogueFragment$1$4$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/catalogueFragment$1$4$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/catalogueFragment$1$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/catalogueFragment$1$5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/catalogueFragment$1$6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/catalogueFragment$1$7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/sortString.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/joyli/example/com/shopifydemo/ShoppingCartFragment$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/joyli/example/com/shopifydemo/ShoppingCartFragment$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/joyli/example/com/shopifydemo/ShoppingCartFragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/joyli/example/com/shopifydemo/ShoppingCartFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/joyli/example/com/shopifydemo/artistEventsFragment$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/joyli/example/com/shopifydemo/artistEventsFragment$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/joyli/example/com/shopifydemo/artistEventsFragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/joyli/example/com/shopifydemo/artistEventsFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/joyli/example/com/shopifydemo/catalogueFragment$1$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/joyli/example/com/shopifydemo/catalogueFragment$1$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/joyli/example/com/shopifydemo/catalogueFragment$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/joyli/example/com/shopifydemo/catalogueFragment$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/joyli/example/com/shopifydemo/catalogueFragment$2$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/joyli/example/com/shopifydemo/catalogueFragment$2$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/joyli/example/com/shopifydemo/catalogueFragment$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/joyli/example/com/shopifydemo/catalogueFragment$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/joyli/example/com/shopifydemo/catalogueFragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/joyli/example/com/shopifydemo/catalogueFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/ArtistEventsFragment$$Lambda$4.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/ArtistEventsFragment$$Lambda$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/ShoppingCartFragment$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/ShoppingCartFragment$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/ShoppingCartFragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/ShoppingCartFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/artistEventsFragment$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/artistEventsFragment$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/artistEventsFragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/artistEventsFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/catalogueFragment$1$$Lambda$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/catalogueFragment$1$$Lambda$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/catalogueFragment$1$$Lambda$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/catalogueFragment$1$$Lambda$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/catalogueFragment$1$$Lambda$3.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/catalogueFragment$1$$Lambda$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/catalogueFragment$1$$Lambda$4.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/catalogueFragment$1$$Lambda$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/catalogueFragment$1$$Lambda$5.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/catalogueFragment$1$$Lambda$5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/catalogueFragment$1$$Lambda$6.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/catalogueFragment$1$$Lambda$6.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/catalogueFragment$1$$Lambda$7.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/catalogueFragment$1$$Lambda$7.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/catalogueFragment$1$$Lambda$8.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/catalogueFragment$1$$Lambda$8.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/catalogueFragment$1$1$$Lambda$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/catalogueFragment$1$1$$Lambda$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/catalogueFragment$1$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/catalogueFragment$1$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/catalogueFragment$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/catalogueFragment$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/catalogueFragment$2$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/catalogueFragment$2$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/catalogueFragment$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/catalogueFragment$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/catalogueFragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/catalogueFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/zip-cache/sIZIqFI65wqtbiSWMgzdI06zdNc=" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/zip-cache/sIZIqFI65wqtbiSWMgzdI06zdNc=" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageInstantRunResourcesDebug/zip-cache/sIZIqFI65wqtbiSWMgzdI06zdNc=" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageInstantRunResourcesDebug/zip-cache/sIZIqFI65wqtbiSWMgzdI06zdNc=" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_9.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_9.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/ArtistEventsFragment$$Lambda$4.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/ArtistEventsFragment$$Lambda$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/ShoppingCartFragment$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/ShoppingCartFragment$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/ShoppingCartFragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/ShoppingCartFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/artistEventsFragment$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/artistEventsFragment$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/artistEventsFragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/artistEventsFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/catalogueFragment$1$$Lambda$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/catalogueFragment$1$$Lambda$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/catalogueFragment$1$$Lambda$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/catalogueFragment$1$$Lambda$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/catalogueFragment$1$$Lambda$3.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/catalogueFragment$1$$Lambda$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/catalogueFragment$1$$Lambda$4.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/catalogueFragment$1$$Lambda$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/catalogueFragment$1$$Lambda$5.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/catalogueFragment$1$$Lambda$5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/catalogueFragment$1$$Lambda$6.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/catalogueFragment$1$$Lambda$6.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/catalogueFragment$1$$Lambda$7.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/catalogueFragment$1$$Lambda$7.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/catalogueFragment$1$$Lambda$8.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/catalogueFragment$1$$Lambda$8.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/catalogueFragment$1$1$$Lambda$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/catalogueFragment$1$1$$Lambda$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/catalogueFragment$1$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/catalogueFragment$1$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/catalogueFragment$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/catalogueFragment$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/catalogueFragment$2$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/catalogueFragment$2$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/catalogueFragment$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/catalogueFragment$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/catalogueFragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/catalogueFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/ArtistEventsFragment$$Lambda$4.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/ArtistEventsFragment$$Lambda$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/ShoppingCartFragment$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/ShoppingCartFragment$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/ShoppingCartFragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/ShoppingCartFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/artistEventsFragment$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/artistEventsFragment$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/artistEventsFragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/artistEventsFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/catalogueFragment$1$$Lambda$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/catalogueFragment$1$$Lambda$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/catalogueFragment$1$$Lambda$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/catalogueFragment$1$$Lambda$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/catalogueFragment$1$$Lambda$3.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/catalogueFragment$1$$Lambda$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/catalogueFragment$1$$Lambda$4.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/catalogueFragment$1$$Lambda$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/catalogueFragment$1$$Lambda$5.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/catalogueFragment$1$$Lambda$5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/catalogueFragment$1$$Lambda$6.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/catalogueFragment$1$$Lambda$6.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/catalogueFragment$1$$Lambda$7.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/catalogueFragment$1$$Lambda$7.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/catalogueFragment$1$$Lambda$8.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/catalogueFragment$1$$Lambda$8.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/catalogueFragment$1$1$$Lambda$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/catalogueFragment$1$1$$Lambda$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/catalogueFragment$1$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/catalogueFragment$1$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/catalogueFragment$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/catalogueFragment$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/catalogueFragment$2$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/catalogueFragment$2$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/catalogueFragment$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/catalogueFragment$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/catalogueFragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/catalogueFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/ArtistEventsFragment$$Lambda$4.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/ArtistEventsFragment$$Lambda$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/ShoppingCartFragment$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/ShoppingCartFragment$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/ShoppingCartFragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/ShoppingCartFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/artistEventsFragment$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/artistEventsFragment$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/artistEventsFragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/artistEventsFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/catalogueFragment$1$$Lambda$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/catalogueFragment$1$$Lambda$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/catalogueFragment$1$$Lambda$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/catalogueFragment$1$$Lambda$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/catalogueFragment$1$$Lambda$3.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/catalogueFragment$1$$Lambda$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/catalogueFragment$1$$Lambda$4.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/catalogueFragment$1$$Lambda$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/catalogueFragment$1$$Lambda$5.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/catalogueFragment$1$$Lambda$5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/catalogueFragment$1$$Lambda$6.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/catalogueFragment$1$$Lambda$6.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/catalogueFragment$1$$Lambda$7.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/catalogueFragment$1$$Lambda$7.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/catalogueFragment$1$$Lambda$8.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/catalogueFragment$1$$Lambda$8.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/catalogueFragment$1$1$$Lambda$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/catalogueFragment$1$1$$Lambda$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/catalogueFragment$1$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/catalogueFragment$1$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/catalogueFragment$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/catalogueFragment$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/catalogueFragment$2$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/catalogueFragment$2$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/catalogueFragment$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/catalogueFragment$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/catalogueFragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/catalogueFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/joyli/example/com/shopifydemo" afterPath="$PROJECT_DIR$/app/src/main/java/joyli/example/com/shopifydemo" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/layout.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/layout.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageInstantRunResourcesDebug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageInstantRunResourcesDebug/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_9/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_9/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/artist_name.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/artist_name.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/restart-dex/debug/build-info.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/restart-dex/debug/build-info.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/buildId.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/buildId.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/joyli/example/com/shopifydemo/CatalogueFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/joyli/example/com/shopifydemo/CatalogueFragment.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/artist_name.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/artist_name.xml" />
     </list>
     <ignored path="ShopifyDemo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -56,18 +414,18 @@
       <file leaf-file-name="ShoppingCartFragment.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/joyli/example/com/shopifydemo/ShoppingCartFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+            <state relative-caret-position="277">
+              <caret line="70" column="9" selection-start-line="70" selection-start-column="9" selection-end-line="70" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CatalogueFragment.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/joyli/example/com/shopifydemo/CatalogueFragment.java">
+      <file leaf-file-name="ProductInCart.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/joyli/example/com/shopifydemo/ProductInCart.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="631" column="30" selection-start-line="631" selection-start-column="30" selection-end-line="631" selection-end-column="30" />
+            <state relative-caret-position="102">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -99,11 +457,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BottomNavigationView.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/AppData/Local/Android/Sdk/extras/android/m2repository/com/android/support/design/25.3.1/design-25.3.1-sources.jar!/android/support/design/widget/BottomNavigationView.java">
+      <file leaf-file-name="CatalogueFragment.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/joyli/example/com/shopifydemo/CatalogueFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="360" column="16" selection-start-line="360" selection-start-column="16" selection-end-line="360" selection-end-column="16" />
+            <state relative-caret-position="439">
+              <caret line="627" column="42" selection-start-line="627" selection-start-column="42" selection-end-line="627" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -139,21 +497,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NewArrivalFragment.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/joyli/example/com/shopifydemo/NewArrivalFragment.java">
+      <file leaf-file-name="SortByLowToHighPrice.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/joyli/example/com/shopifydemo/SortByLowToHighPrice.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3247">
-              <caret line="48" column="123" selection-start-line="48" selection-start-column="123" selection-end-line="48" selection-end-column="123" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StartShoppingCart.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/joyli/example/com/shopifydemo/StartShoppingCart.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            <state relative-caret-position="255">
+              <caret line="15" column="17" selection-start-line="11" selection-start-column="8" selection-end-line="15" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -2088,20 +2436,20 @@
         <option value="$PROJECT_DIR$/app/src/main/java/joyli/example/com/shopifydemo/homePageFragment.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/joyli/example/com/shopifydemo/productDetail.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/product_detail.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/joyli/example/com/shopifydemo/ShoppingCartFragment.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/joyli/example/com/shopifydemo/NewArrivalFragment.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/joyli/example/com/shopifydemo/ProductDatabase.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/joyli/example/com/shopifydemo/ProductDetail.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/joyli/example/com/shopifydemo/ProductInCart.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/joyli/example/com/shopifydemo/SectionPageAdapter.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/joyli/example/com/shopifydemo/SortByLowToHighPrice.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/joyli/example/com/shopifydemo/SortString.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/joyli/example/com/shopifydemo/StartShoppingCart.java" />
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/joyli/example/com/shopifydemo/MainActivity.java" />
         <option value="$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-25/android.jar!/java/lang/Runnable.class" />
         <option value="$PROJECT_DIR$/app/src/main/java/joyli/example/com/shopifydemo/ArtistEventsFragment.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/artist_name.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/joyli/example/com/shopifydemo/ShoppingCartFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/joyli/example/com/shopifydemo/SortString.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/joyli/example/com/shopifydemo/CatalogueFragment.java" />
       </list>
     </option>
@@ -2680,13 +3028,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/joyli/example/com/shopifydemo/TicketMaster JSON 1">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/item_in_cart.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -2825,14 +3166,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/joyli/example/com/shopifydemo/SortString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/joyli/example/com/shopifydemo/ProductDetail.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -2852,14 +3185,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/joyli/example/com/shopifydemo/ProductInCart.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/joyli/example/com/shopifydemo/SectionPageAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -2868,26 +3193,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/joyli/example/com/shopifydemo/SortByLowToHighPrice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/joyli/example/com/shopifydemo/StartShoppingCart.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/joyli/example/com/shopifydemo/ShoppingCartFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
           <folding />
         </state>
       </provider>
@@ -2916,37 +3225,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/joyli/example/com/shopifydemo/ArtistEventsFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2312">
-          <caret line="182" column="0" selection-start-line="182" selection-start-column="0" selection-end-line="182" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/AppData/Local/Android/Sdk/extras/android/m2repository/com/android/support/design/25.3.1/design-25.3.1-sources.jar!/android/support/design/widget/BottomNavigationView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="360" column="16" selection-start-line="360" selection-start-column="16" selection-end-line="360" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/filter_dialogue.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="25" column="48" selection-start-line="25" selection-start-column="48" selection-end-line="25" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/artist_name.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
           <folding />
         </state>
       </provider>
@@ -2962,10 +3244,77 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$USER_HOME$/AppData/Local/Android/Sdk/extras/android/m2repository/com/android/support/design/25.3.1/design-25.3.1-sources.jar!/android/support/design/widget/BottomNavigationView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="360" column="16" selection-start-line="360" selection-start-column="16" selection-end-line="360" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/joyli/example/com/shopifydemo/ShoppingCartFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="70" column="9" selection-start-line="70" selection-start-column="9" selection-end-line="70" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/joyli/example/com/shopifydemo/SortString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/joyli/example/com/shopifydemo/TicketMaster JSON 1">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/artist_name.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/joyli/example/com/shopifydemo/ProductInCart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/joyli/example/com/shopifydemo/SortByLowToHighPrice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="17" selection-start-line="11" selection-start-column="8" selection-end-line="15" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/joyli/example/com/shopifydemo/ArtistEventsFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2312">
+          <caret line="182" column="0" selection-start-line="182" selection-start-column="0" selection-end-line="182" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/joyli/example/com/shopifydemo/CatalogueFragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="631" column="30" selection-start-line="631" selection-start-column="30" selection-end-line="631" selection-end-column="30" />
+        <state relative-caret-position="439">
+          <caret line="627" column="42" selection-start-line="627" selection-start-column="42" selection-end-line="627" selection-end-column="42" />
           <folding />
         </state>
       </provider>
