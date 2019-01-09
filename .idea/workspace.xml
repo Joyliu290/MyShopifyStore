@@ -18,56 +18,10 @@
   <component name="ChangeListManager">
     <list id="250b7066-ca5b-408a-92cb-7cb29a9ae1e1" name="Default" comment="Home page UI is now complete" />
     <list default="true" id="65c50838-ead9-4f81-9419-c9ca6819aab0" name="New changelist" comment="Added horizontal scroll functiaonalities to home screen view">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/joyli/example/com/shopifydemo/artistEventsFragment$2$1$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/joyli/example/com/shopifydemo/artistEventsFragment$2$1$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/joyli/example/com/shopifydemo/artistEventsFragment$3$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/joyli/example/com/shopifydemo/artistEventsFragment$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/artistEventsFragment$2$1$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/artistEventsFragment$2$1$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/artistEventsFragment$3$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/artistEventsFragment$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/artistEventsFragment$2$1$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/artistEventsFragment$2$1$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/artistEventsFragment$3$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/artistEventsFragment$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/artistEventsFragment$2$1$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/artistEventsFragment$2$1$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/artistEventsFragment$3$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/artistEventsFragment$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/artistEventsFragment$2$1$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/artistEventsFragment$2$1$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/artistEventsFragment$3$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/artistEventsFragment$3.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/joyli/example/com/shopifydemo/artistEventsFragment$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/joyli/example/com/shopifydemo/artistEventsFragment$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/joyli/example/com/shopifydemo/artistEventsFragment$2$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/joyli/example/com/shopifydemo/artistEventsFragment$2$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/joyli/example/com/shopifydemo/artistEventsFragment$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/joyli/example/com/shopifydemo/artistEventsFragment$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/joyli/example/com/shopifydemo/artistEventsFragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/joyli/example/com/shopifydemo/artistEventsFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/artistEventsFragment$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/artistEventsFragment$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/artistEventsFragment$2$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/artistEventsFragment$2$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/artistEventsFragment$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/artistEventsFragment$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/artistEventsFragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/joyli/example/com/shopifydemo/artistEventsFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_9.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_9.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/artistEventsFragment$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/artistEventsFragment$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/artistEventsFragment$2$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/artistEventsFragment$2$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/artistEventsFragment$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/artistEventsFragment$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/artistEventsFragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/joyli/example/com/shopifydemo/artistEventsFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/artistEventsFragment$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/artistEventsFragment$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/artistEventsFragment$2$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/artistEventsFragment$2$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/artistEventsFragment$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/artistEventsFragment$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/artistEventsFragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/joyli/example/com/shopifydemo/artistEventsFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/artistEventsFragment$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/artistEventsFragment$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/artistEventsFragment$2$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/artistEventsFragment$2$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/artistEventsFragment$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/artistEventsFragment$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/artistEventsFragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/retrolambda/debug/folders/1/1/retrolambda/joyli/example/com/shopifydemo/artistEventsFragment.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/joyli/example/com/shopifydemo" afterPath="$PROJECT_DIR$/app/src/main/java/joyli/example/com/shopifydemo" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_9/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_9/dex-renamer-state.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/restart-dex/debug/build-info.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/restart-dex/debug/build-info.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/joyli/example/com/shopifydemo/CatalogueFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/joyli/example/com/shopifydemo/CatalogueFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/artist_name.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/artist_name.xml" />
     </list>
     <ignored path="ShopifyDemo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -99,26 +53,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SectionPageAdapter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/joyli/example/com/shopifydemo/SectionPageAdapter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SortByLowToHighPrice.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/joyli/example/com/shopifydemo/SortByLowToHighPrice.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ShoppingCartFragment.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/joyli/example/com/shopifydemo/ShoppingCartFragment.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -129,31 +63,57 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CatalogueFragment.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="CatalogueFragment.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/joyli/example/com/shopifydemo/CatalogueFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="39" column="13" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
+            <state relative-caret-position="195">
+              <caret line="631" column="30" selection-start-line="631" selection-start-column="30" selection-end-line="631" selection-end-column="30" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/joyli/example/com/shopifydemo/MainActivity.java">
+      <file leaf-file-name="filter_dialogue.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/filter_dialogue.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="49" column="27" selection-start-line="49" selection-start-column="27" selection-end-line="49" selection-end-column="27" />
+            <state relative-caret-position="425">
+              <caret line="25" column="48" selection-start-line="25" selection-start-column="48" selection-end-line="25" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="artist_name.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/artist_name.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BottomNavigationView.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/AppData/Local/Android/Sdk/extras/android/m2repository/com/android/support/design/25.3.1/design-25.3.1-sources.jar!/android/support/design/widget/BottomNavigationView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="360" column="16" selection-start-line="360" selection-start-column="16" selection-end-line="360" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ArtistEventsFragment.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ArtistEventsFragment.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/joyli/example/com/shopifydemo/ArtistEventsFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2550">
-              <caret line="182" column="16" selection-start-line="182" selection-start-column="16" selection-end-line="182" selection-end-column="16" />
+            <state relative-caret-position="2312">
+              <caret line="182" column="0" selection-start-line="182" selection-start-column="0" selection-end-line="182" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -2120,7 +2080,6 @@
         <option value="$PROJECT_DIR$/app/src/main/res/layout/cart_fragment.xml" />
         <option value="$PROJECT_DIR$/app/build.gradle" />
         <option value="$PROJECT_DIR$/app/src/main/java/joyli/example/com/shopifydemo/TicketMaster JSON 1" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/artist_name.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/joyli/example/com/shopifydemo/catalogueFragment.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/single_artist_event.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/autocomplete_single_item.xml" />
@@ -2130,7 +2089,6 @@
         <option value="$PROJECT_DIR$/app/src/main/java/joyli/example/com/shopifydemo/productDetail.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/product_detail.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/joyli/example/com/shopifydemo/ShoppingCartFragment.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/joyli/example/com/shopifydemo/CatalogueFragment.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/joyli/example/com/shopifydemo/NewArrivalFragment.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/joyli/example/com/shopifydemo/ProductDatabase.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/joyli/example/com/shopifydemo/ProductDetail.java" />
@@ -2143,6 +2101,8 @@
         <option value="$PROJECT_DIR$/app/src/main/java/joyli/example/com/shopifydemo/MainActivity.java" />
         <option value="$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-25/android.jar!/java/lang/Runnable.class" />
         <option value="$PROJECT_DIR$/app/src/main/java/joyli/example/com/shopifydemo/ArtistEventsFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/artist_name.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/joyli/example/com/shopifydemo/CatalogueFragment.java" />
       </list>
     </option>
   </component>
@@ -2586,14 +2546,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/joyli/example/com/shopifydemo/ShoppingCartFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="59" selection-start-line="18" selection-start-column="59" selection-end-line="18" selection-end-column="59" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/catalogue_fragment.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -2629,16 +2581,6 @@
         <state relative-caret-position="289">
           <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/filter_dialogue.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="25" column="48" selection-start-line="25" selection-start-column="48" selection-end-line="25" selection-end-column="48" />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/cart.png">
@@ -2853,17 +2795,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/artist_name.xml">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="36" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/single_artist_event.xml">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="2329">
@@ -2969,12 +2900,58 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-25/android.jar!/java/lang/Runnable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/joyli/example/com/shopifydemo/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
+        <state relative-caret-position="-182">
           <caret line="49" column="27" selection-start-line="49" selection-start-column="27" selection-end-line="49" selection-end-column="27" />
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/joyli/example/com/shopifydemo/ArtistEventsFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2312">
+          <caret line="182" column="0" selection-start-line="182" selection-start-column="0" selection-end-line="182" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/AppData/Local/Android/Sdk/extras/android/m2repository/com/android/support/design/25.3.1/design-25.3.1-sources.jar!/android/support/design/widget/BottomNavigationView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="360" column="16" selection-start-line="360" selection-start-column="16" selection-end-line="360" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/filter_dialogue.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="48" selection-start-line="25" selection-start-column="48" selection-end-line="25" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/artist_name.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-25/android.jar!/android/view/View.class">
@@ -2987,24 +2964,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/joyli/example/com/shopifydemo/CatalogueFragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="39" column="13" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-25/android.jar!/java/lang/Runnable.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/joyli/example/com/shopifydemo/ArtistEventsFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2550">
-          <caret line="182" column="16" selection-start-line="182" selection-start-column="16" selection-end-line="182" selection-end-column="16" />
+        <state relative-caret-position="195">
+          <caret line="631" column="30" selection-start-line="631" selection-start-column="30" selection-end-line="631" selection-end-column="30" />
           <folding />
         </state>
       </provider>
