@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content" android:layout_height="wrap_content">
+
+    <ImageView
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:id="@+id/searchIcon"
+        android:layout_marginLeft="17dp"
+        android:layout_marginTop="85dp"
+        android:src="@drawable/search"/>
+
+    <AutoCompleteTextView
+        android:layout_width="680dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="70dp"
+        android:id="@+id/searchArtistName"
+        android:hint="Search For Your Artist and Press Enter Key"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:textColorHint="@color/colorPrimary"
+        android:completionThreshold="1"
+        android:imeOptions="actionDone"
+        android:layout_toRightOf="@+id/searchIcon"
+        android:maxLines="1"/>
+
+    <ImageView
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:id="@+id/clearSearch"
+        android:layout_marginLeft="700dp"
+        android:layout_marginTop="90dp"
+        android:src="@drawable/error"/>
+
+            <ProgressBar
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/progressBarForArtistEvent"
+                android:layout_centerHorizontal="true"
+                android:layout_marginStart="700dp"
+                android:layout_marginTop="700dp"
+                android:layout_centerVertical="true"
+                android:layout_centerInParent="true"
+                android:visibility="invisible"/>
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:id="@+id/scrollView"
+        android:layout_below="@+id/clearSearch"
+        android:layout_marginTop="20dp"
+        android:layout_height="wrap_content">
+
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/gridLayoutConcert"
+        android:layout_marginStart="20dp"
+        android:columnCount="1"
+        android:layout_marginBottom="80dp" />
+
+    </ScrollView>
+
+</RelativeLayout>

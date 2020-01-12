@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:textSize="17sp"
+        android:text=""
+        android:id="@+id/cartEstimatedTotal"
+        android:layout_marginLeft="20dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:id="@+id/cartEstimatedTotalPrice"
+        android:layout_toRightOf="@+id/cartEstimatedTotal"
+        android:layout_marginTop="30dp"
+        android:textSize="17sp"
+        android:layout_marginLeft="5dp"
+        android:textColor="@color/colorAccent"
+        android:layout_height="wrap_content" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="2dp"
+                android:layout_marginTop="10dp"
+                android:layout_below="@+id/cartEstimatedTotalPrice"
+                android:id="@+id/horizontalLine2"
+                android:background="#fbb0c3"/>
+
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/gridLayoutCart"
+        android:columnCount="1"
+        android:layout_below="@+id/cartEstimatedTotalPrice"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="80dp"></GridLayout>
+
+        </RelativeLayout>
+    </ScrollView>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_alignParentBottom="true"
+        android:background="#66c2ff"
+        android:textColor="#ffffff"
+        android:text="CHECKOUT"/>
+
+
+</RelativeLayout>
